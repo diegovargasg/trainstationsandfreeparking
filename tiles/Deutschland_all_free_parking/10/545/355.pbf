@@ -1,0 +1,95 @@
+áSx
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Grub"
+Haar"
+Riem"
+Poing"	
+Baldham"	
+Dornach"	
+Eglfing"	
+PÃ¶ring"
+
+Daglfing"
+
+Ismaning"
+	Gronsdorf"
+	Neubiberg"
+	Ottobrunn"
+	Westerham"
+	Zorneding"
+
+DÃ¼rrnhaar"
+
+Hohenbrunn"
+
+Kirchseeon"
+
+Ottenhofen"
+
+Riemerling"
+Feldkirchen"
+Heimstetten"
+Michaelibad"
+Neukeferloh"
+Taufkirchen"
+Unterbiberg"
+Unterhaching"
+Vaterstetten"
+Angelbrechting"
+FischerhÃ¤user"
+Markt Schwaben"
+Grafing Bahnhof"
+Grafing-Bahnhof"
+Luitpoldsiedlung"
+HÃ¶henkirchen-Siegertsbrunn"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","fee":"no","level":"-0.5","park_ride":"yes","parking":"surface"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"y
+w{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"|
+z{"access":"yes","amenity":"parking","fee":"no","name":"P&R Haar","park_ride":"yes","parking":"surface","wheelchair":"yes"}"€
+~{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"survey","wheelchair":"limited"}"
+{"access":"yes","amenity":"parking","fee":"no","maxstay":"4 hours","park_ride":"yes","parking":"street_side","supervised":"no"}"…
+‚{"access":"yes","amenity":"parking","description":"P+R Enzensberger StraÃŸe","fee":"no","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","capacity":"2","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","capacity":"3","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"P&R Haar","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ž
+‹{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"P&R Gronsdorf","park_ride":"yes","parking":"surface","wheelchair":"yes"}"’
+{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"“
+{"access":"customers","amenity":"parking","capacity":"71","capacity:disabled":"1","fee":"no","name":"P+R","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"53","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"“
+{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P&R Vaterstetten (SÃ¼d)","park_ride":"yes","parking":"surface"}"”
+‘{"access":"yes","amenity":"parking","capacity":"82","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"–
+“{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","capacity:women":"3","fee":"no","park_ride":"yes","parking":"surface"}"—
+”{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","source":"survey","wheelchair":"yes"}"™
+–{"access":"yes","amenity":"parking","fee":"no","name":"P&R Ottobrunn Bahnhof","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"9","capacity:disabled":"4","capacity:parent":"no","capacity:women":"5","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","wheelchair":"yes","wheelchair:description:de":"Querparken mit ausreichend Abstand"}"¬
+©{"access":"yes","amenity":"parking","capacity":"161","fee":"no","level":"0","lit":"yes","name":"P+R Kirchseeon","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¬
+©{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"­
+ª{"access":"yes","amenity":"parking","building":"parking","building:levels":"3","capacity:disabled":"4","capacity:women":"3","description":"P+R MÃ¼nterstraÃŸe","fee":"no","name":"P+R MÃ¼nterstraÃŸe","opening_hours":"24/7","park_ride":"yes","parking":"multi-storey","source":"Bing","surface":"paved"}"¸
+µ{"access":"yes","amenity":"parking","capacity:disabled":"yes","capacity:women":"yes","fee":"no","name":"P+R BahnhofstraÃŸe","park_ride":"yes","parking":"surface","wheelchair":"yes"}"½
+º{"access":"yes","amenity":"parking","capacity":"40","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited","wheelchair:description:de":"Querparken, in der Regel viele PlÃ¤tze frei, leichte Steigung von S-Bahnhof zum Parkplatz"}"À
+½{"access":"yes","amenity":"parking","capacity":"47","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ä
+Á{"access":"yes","amenity":"parking","covered":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"good","source":"survey","surface":"asphalt","wheelchair":"limited"}"Å
+Â{"access":"yes","amenity":"parking","capacity":"101","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","check_date:fee":"2021-05-22","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited","wheelchair:description:de":"Einige LÃ¤ngsparkplÃ¤tze im vorderen Bereich, hÃ¤ufig aber belegt."}"É
+Æ{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","level":"-0.5","lit":"yes","name":"P&R Zorneding","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Í
+Ê{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"Õ
+Ò{"access":"yes","amenity":"parking","capacity":"120","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"ground","wheelchair":"yes"}"ß
+Ü{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","capacity:parent":"0","capacity:women":"0","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","wheelchair":"yes"}"ß
+Ü{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"6","capacity:parent":"0","capacity:women":"0","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","wheelchair":"yes"}"ã
+à{"access":"yes","addr:city":"Poing","addr:housenumber":"7","addr:postcode":"85586","addr:street":"FriedensstraÃŸe","amenity":"parking","building":"parking","building:levels":"3","capacity":"407","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"yes","fee":"no","lit":"yes","park_ride":"yes","parking":"multi-storey","surface":"paved"}"ä
+á{"amenity":"parking","capacity":"10","capacity:disabled":"10","description":"Behindertenparkplatz","fee":"no","lit":"yes","maxstay":"unlimited","park_ride":"yes","parking":"street_side","surface":"asphalt","wheelchair":"yes"}"ö
+ó{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","level":"0","lit":"yes","park_ride":"yes","parking":"surface","surface":"asphalt","toilets:wheelchair":"no","wheelchair":"yes"}"û
+ø{"access":"permit","amenity":"parking","capacity":"3","check_date":"2024-05-02","covered":"no","description":"Parkplatz fÃ¼r Elektrofahrzeuge","fee":"no","park_ride":"yes","parking":"surface","supervised":"yes","surface":"paved","wheelchair":"yes"}"	Ç3(z\5@"	…/Á]¡@"	/mphq@"	üûG19@"	u'Ògˆ@"	)6Ü+C@"	9Sq¬ð@"	VÔòUÔ†@"	èj3þ’@"	!*ðŸ@"	™øo–Q@"	!µw#ýR@"	#Xµ¢k@"	%´^¨+§@"	&På.Ÿ@"	(+:“’Oh@"	*µáØR@"	+.ö¨!Æ5@"	0ŒuwÚU@"	2-hZ:I@"	6úëv[÷q@"	8R¾=v@"	>Éè¨“{a@"	?¨\2ôU@"	?á­*Ÿgd@"	GB¯k}‰r@"	HøÒ€@"	JÏšÕ>ñ6@"	KWNc	ÞF@"	KÁ@:Nè\@"	Kþ§Ø§ï¦@"	NºHù{fb@"	TºœD;	°@"	Uß:öÿò¢@"	V/Ä£.A@"	X`
+¡øG@"	YL·Ÿ•áP@"	Z]Ùƒ¤Q@"	]ù^Èñ“@"	a¢W¨·K—@"	bháü@År@"	fú9Ÿà¶Q@"	hYO*²a@"	høß3T7E@"	j¥žwÏP@"	w©Óo`>@"	{Ç´¤ÄNX@"	€¯ëÛkÙa@"	­YŠ{€@"	…‡¶MyÇo@"	‡‚ak•u@"	,.ˆ@"	~›ûdNE@"	‘À£˜¥Q@"	˜Lš§@"	˜Ê _kæb@"	™¯ˆà—˜@"	›øON6<V@"	òl0¨@"	pnÌ§‹@"	 ÖL]Þ¢@"	£
+oZ1[@"	£3?qÛ¾¡@"	¦°ø²À0r@"	ªÕFùõ1–@"	«âÂQ=Y@"	®ÈKv@"	®=Ç²Fô@@"	±Ž¡P­¢@"	³zŒS
+@"	µ÷øÍ(¼A@"	¸GD#Y×P@"	¸‰?ÊÐ¥@"	»àÿúúêX@"	¼ÀlA÷É}@"	Áªrw8¨@"	ÓÃUw3ñG@"	ÔíÖua@"	Õ0ÁBn@"	àò9ñY@"	êýÉ–Ód@"	î®×ÚwJ@"	îß“Hçþ@"	ï“‹qÞu@"	öÉüP@"	ø‡5â0¨@" %" C" €ŒØ" €Ñ¸" " —†²" Ðøa" èü" ‚ŒØ" ‚ì“" „¯½¡" „ºÞ¢" ˆ©³" ‰Îô" Šˆ" –¹" ‘¥ˆ" •¿€
+" •ÓÚî" –´´‘" –þ" —Ñî" ˜õç" šþÚ" £Ï»'" £ö" ©¼Œ%" ®4" ¯×èG" ¶" ·X" ·" ¸" º" ¼É²t" ¾É²t" ¿½¶t" À½¶t" Ã—ž" Å¨•" Ç‹ô…" Ç±ôI" Ç¸À" Çäº™" É… " Ìû‚ó" Í“½" Î»ôë" Ï˜šs" ÏÕïS" ÐÕïS" Õã" ÖÑ„" ÖÑÆb" ×Ñ„" ×úó" Øä½r" Ù³" Ü”¨" á÷¥¾" äã¾" å#" ë" ì" ìÊó\" ðŸ›m" ñ¥‰K" óÉ" ô©ÁË" ôÉ" õ‹Ø" õ©ÁË" ÷“Õ" ÷ÙÔ" ø‹Ø" ùÖ" û¯¥-" ûµ«P" þ™½" þáø" ÿ¹Þ¢ Â*Y	Ýìh"	žc Ã*b	ÝìW"	žY °GM	Ýì•"	ž+ â#—»¦j"	¢â  ÚCšÞ¸Ÿ"	Öô á$VÞ¸p"	®â Û#_Þ¸R"	Üè £#v éœ"	øô º5˜ éK"	ž” Ì/s
+¿«
+N"	ðú Õ(i½ðP"	šô ï.ƒ½ðQ"	èö  à&‘ éŒ"	îô ¬6f é"	Ü’ ×1mÓÇ‚"	îÈ+ Ö)eÓÇ|"	²”/  Ô?ÓÇ‰"	¾š/  ¶>‹»¦†"	Ä
+´( Ñ@»¦k"	Â
+Ä( Ò8J¹²Ž"	Ô
+Ö( í=g¹²ˆ"	î
+ì( É7–¹²d"	öö+ Ù3`¡±…"	úŽ! ª,aÀÎr"	Î²0 ³-TÀÎc"	Ð¶0 Ä'žÀÎL"	ìÔ0 Å'ZÀÎ^"	ìÚ0 ¢Dl"´Ë!"	°Ž8 êE["´Ë!}"	º’8 æBw"´Ë!„"	¾’8 ­%™"´Ë!X"	¾¸8 ¨:t"´Ë!S"	´Ä8 Í0Áîy"	Ê€? §FUåçq"	„&¶ Ê<nåçŠ"	ˆ&Ì Ü+u¾Ø’"	ª/¶  è;¾Ø€"	Š/Ü ©4x ãä {"	ò ˜ Æ2oßµ~"	â!ˆ"  ¼H“®Ï”"	è)à$ ·A]®Ïz"	ô)ö$ ¥9\¤¯‡"	ö3à) ÐI›ëÈ O"	Ô=¨1

@@ -1,0 +1,108 @@
+îjx
+Deutschland_all_free_parking(Ä 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Ruit"
+Forst"
+Singen"
+Sp√∂ck"	
+B√ºchig"	
+Niefern"
+
+√ñlbronn"
+	Bauerbach"
+	Bilfingen"
+	Busenbach"
+	Flehingen"
+
+Berghausen"
+
+J√∂hlingen"
+
+S√∂llingen"
+
+W√∂ssingen"
+Diedelsheim"
+Gondelsheim"
+G√∂lshausen"
+K√∂nigsbach"
+Bretten-Ruit"
+Gro√üvillars"
+Kleinvillars"
+Friedrichstal"
+Untergrombach"
+W√∂ssingen Ost"
+Bretten Bahnhof"
+√ñlbronn-D√ºrrn"
+Bahnhof Hagsfeld"
+Killisfeldstra√üe"
+J√∂hlingen Bahnhof"
+Maulbronn West AVG"
+Gondelsheim (Baden)"
+K√∂nigsbach (Baden)"
+Wilferdingen-Singen"
+Bretten Schulzentrum"
+Richard-Hecht-Schule"
+Berghausen Hummelberg"
+Bruchsal Sportzentrum"
+Friedrichstal (Baden)"
+Berghausen Pfinzbr√ºcke"
+Oberderdingen-Flehingen"
+S√∂llingen Reetzstra√üe"
+Knittlingen-Kleinvillars"
+G√∂lshausen Industriegebiet"'
+%Bruchsal Gewerbliches Bildungszentrum"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"j
+h{"access":"yes","amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"street_side"}"j
+h{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"street_side"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"n
+l{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","wheelchair":"yes"}"z
+x{"access":"yes","amenity":"parking","capacity":"21","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"É
+Ä{"amenity":"parking","capacity":"15","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no","surface":"asphalt"}"Ñ
+Å{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"Ö
+Ç{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Ö
+Ç{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"bad","source":"Bing","supervised":"no"}"á
+Ñ{"access":"yes","amenity":"parking","capacity":"8","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"sett"}"é
+ã{"access":"yes","amenity":"parking","capacity":"52","fee":"no","name":"P&R Bretten Bahnhof","operator":"Stadt Bretten","park_ride":"yes","parking":"surface","phone":"+49 7252 9130","supervised":"no","website":"https://www.bretten.de/wirtschaft-energie-umwelt/parken"}"ë
+é{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"ï
+í{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"3","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"grass_paver"}"ï
+í{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"grass_paver"}"ï
+í{"access":"yes","amenity":"parking","capacity":"9","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","covered":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"sett"}"ñ
+ì{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"grass_paver"}"ñ
+ì{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","covered":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"sett"}"ñ
+ì{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"grass_paver"}"ò
+ï{"access":"yes","amenity":"parking","check_date:fee":"2023-02-11","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"ü
+ú{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"†
+ù{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"gravel"}"°
+û{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"£
+†{"access":"yes","amenity":"parking","capacity":"50","fee":"no","lit":"yes","name":"Bruchsal Gewerbliches Bildungszentrum","park_ride":"yes","parking":"surface"}"•
+¢{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"street_side","supervised":"no","surface":"asphalt"}"•
+¢{"access":"yes","addr:country":"DE","amenity":"parking","capacity":"46","capacity:disabled":"1","fee":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking:left":"on_kerb","ref:IFOPT":"de:08236:2890:80","ref:IFOPT:description":"P+R","surface":"paving_stones"}"ß
+§{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"´
+®{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"street_side","supervised":"no","surface":"paving_stones"}"Ø
+¨{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"0","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"grass_paver"}"∂
+≥{"access":"yes","amenity":"parking","capacity":"7","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"º
+π{"access":"yes","amenity":"parking","capacity":"8","capacity:disabled":"1","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¬
+ø{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"0","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking:right":"on_kerb","surface":"paving_stones"}"√
+¿{"access":"yes","amenity":"parking","capacity":"4","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","name":"Wanderparkplatz Stadtbahnhaltestelle","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"grass_paver"}"√
+¿{"access":"yes","amenity":"parking","capacity":"7","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","name":"Wanderparkplatz Stadtbahnhaltestelle","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"grass_paver"}" 
+«{"access":"private","amenity":"parking","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Amalienbadstra√üe 41 / Bau 52","park_ride":"yes","parking":"surface"}"’
+“{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","source":"Bing","surface":"grass_paver"}"⁄
+◊{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"0","fee":"no","lit":"yes","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking:left":"on_kerb","surface":"asphalt"}"Á
+‰{"amenity":"parking","capacity":"95","capacity:charging":"2","capacity:disabled":"2","fee":"no","hgv":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","source:capacity":"Bing 2012","supervised":"no"}"Ó
+Î{"access":"yes","amenity":"parking","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"intermediate","supervised":"no","surface":"asphalt","toilets:wheelchair":"no","wheelchair":"limited"}"¯
+ı{"access":"yes","amenity":"parking","capacity":"17","capacity:taxi":"1","covered":"yes","fee":"no","lit":"yes","opening_hours":"24/7","operator":"Stadt Karlsruhe","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"¯
+ı{"amenity":"parking","capacity":"11","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"good","supervised":"no","surface":"sett"}"	È;è¨Vs@"	¥„àV†™@"		\†,	M@"	dÏe|3@"	ÒD!Å†{@"	ﬁ≠ù∑°@"	Y??õA@"	∑É—È,7@"	!«ê`¯V@"	!ÌX$in@"	"›`YÍÅ@"	"˚Y≥K35@"	#8† h>Ç@"	#¯f÷èyi@"	&f¸≤‘@"	&övp‚|@"	-ö! Z@"	/L^€a3@"	/MIEZ—ß@"	0Ty,7A@"	0Ø£—\-r@"	0÷LLiæ=@"	16’RÜ@"	2}ı"?Ò{@"	2§ &Ÿ÷p@"	4…æQd<@"	:v∞±–k≤@"	>N¸?ºo@"	AìAˇ∆Z@"	D¢~+ÿx@"	E∆“Å/◊L@"	G≈8ıS=@"	J'’nÅ@"	KËfÄ9z@"	MÕ˜	(¢@"	OñpÇ@"	Xáíî“=@"	ZQØkÇZÄ@"	Zé5N
+°}@"	ZŒêıÉõQ@"	]ùﬂÄ‘Ms@"	_ØÄt2Áû@"	`b=Ñøÿ1@"	cN^ìﬂ£@"	hùÕ˛b}@"	j4ûPîƒX@"	m]h7”C@"	q[⁄¸Ñπ}@"	q¶B5•ﬂ†@"	r¡2úêT@"	tIª·h?@"	w>Í*Y˝y@"	zΩ◊JD;M@"	{æì%Ü?@"	ÑÔ˛h¬!D@"	à[ßB¿Ùl@"	ã(Ánì_¢@"	çJ7
+áÖ@"	è·˙∞ª3@"	ëw∏Hj…|@"	ìˇ—ù*Å|@"	ñﬂ·:n@"	ö…ÇÃãxC@"	ú∆Wmˆk1@"	ùœÏÁ4Ä@"	°n√é Qí@"	¶¶)“M◊3@"	®#ˇ4î\¨@"	™Õí
+å‰>@"	Æ„ ¶‡£k@"	∞òÌWqÛH@"	∂‚äâõÖ@"	∑F ÉˇÆÇ@"	∑¨÷ê¯>U@"	∏<=HQ0@"	π
+Ω∏Ü/@"	πˆ·–”›F@"	∫kÀ˘=DB@"	∫ÁP…–ü@"	ªN•0+}@"	æ/Ü¬e’ì@"	æ3
+ç8}@"	¬ÀF˙©0i@"	√˙∞#,*F@"	∆ì	nOÉ>@"	«/WÃo⁄I@"	»÷8áÄe@"	»Dù3±`B@"	»óÔÿ\u}@"	…Hµ^ShÅ@"	ÕUjâ†@"	Œ<›•°@"	—»c\^?@"	ﬂ<¿∫Ç≤@"	ﬂÌÓÌ‘op@"	Ê‘πM⁄g≤@"	Ë÷¡L$2@"	È±=)£@"	ÈÕéúGD@"	Îf®c®U@"	Î‰XJ®u@"	Ó9t·∂≤^@"	ÓTî/4q@"	ÒàE|n@"	ÙÙ‰ô|@"	ı≤©idL@"	ı 3=¬}@"	¯ÔŸË∂{p@"	˘HƒûB@"	˘a∞wh}@"	˘~á¨Ùöx@"	˘Ô©Ñá=m@"	˝H∆≤Å@"	˝«*\Èf|@"	˛:ó÷=>@"	ˇ»}xc@" Å˘çµ" Ç›Ç¥" ÉÉµπ" Ñ°" Ñ¯Â¡"" Ü±´ø" ÜÔè∞" àπ‰" âæ€" åu" èæ€" ëÄ®˙" íå”" íô≤¢" ì¢" îŒ£◊" ïöÂ∑" ôô˛L" öÄ¿" ùÄ®˙" ûõ√π" ûËäA" §çør" §õ√π" §ÊﬁÔ" •;" •«âΩ" •ÈÙ" ¶Ëˇï" ß" ß¯á" ®Å¿" ®«âΩ" ®¯á" ©Å¿" ™" ´ê" ¨Å¿" ≠Á‚ì" ≠˛ø" Æ" ÆÚ" Ø≠∫r" Ø˝≤ˆ" ±" ≤õ√π" ≥í»" ¥õ√π" ¥◊ù∞" ∑∫‰" ø" ¿" ¿ø€π" ¿ÂÚı" ¡Û¨Ü" √c" ∆ΩŸ`" «≠" «ΩŸ`" »ΩŸ`" …˛üd" Àî" ÕÄî˘" ÕΩºˆ" Œì· " œîÄø" œÊ–" ”’·î" ÷ÒÙ" ÿëø»" Ÿ‚≈Ó" ⁄ëø»" €ëø»" €πÄÅ" ·ÇΩõ" „ë" „≥˛" Â∞ø»" Ê∞ø»" Á∞ø»" Ë∞ø»" È¬" Í©í∞" Í∞ø»" Îó" Ï∞ø»" Ì∞ø»" Ó∞ø»" " Ò" Úü≈." Ú≠Æ÷" ˆà" ˜∂Ê§" ¯—ıw" ¯Ì®®" ˘‘´≠" ˘ÎÎ" ˘Ì®®" ˙Ò" ˛©«Ñ" ˇ‹Ç¥ êCx&©ñe"	⁄÷  ﬁUã#€—«"	†í å-a%Ê˜Ç"	Ü˙ ßGé,÷´k"	Ç  ‚W¬–Û∫"	é¯" ÖRfıë∂"	¸∞+  àRêıë∏"	Ñ≤+ áR»ıës"	Ñ∂+  çLá'ıë†"	îŒ( Ø/µ	˘Ë	q"	ºå>  ¨0ó	˘Ë	ƒ"	æé> âS£$ıëo"	òÊ'  “9ì$ıëí"	úÓ'  ˛5¢)ˆÕ…"	ÏÍ, ‡4[ûÅÅ"	Ù¬" ã.dûÅv"	Ñ‹" ÿ.rûÅå"	Ü‚" ŒF∞òÇy"	§é& ≤FùòÇ|"	Æà& ÁFwòÇg"	§û& ÌHnòÇ~"	™ö&  Ú8´!ÜÈ°"	ê∞7 Ô3u!ÜÈc"	∞≤7 Æ2i!ÜÈñ"	Ùû7  Ï<•!ÜÈ≤"	‡≤7 ‘1ü °⁄p"	ÆÏ4 ®T`Ñ„Ü"	»(Ú  ›6äÑ„ë"	Ä+≤ œ7z+Äﬂß"	 7ö  ˙J∑+ˇÙ¥"	Ã7ﬁ ¸Jt+ˇÙ^"	Ã7‚ ‰Kb+ˇÙ≥"	Ã7Ï  ·K¿+ˇÙâ"	Œ7 ™MòÍèZ"	§4Ä ŸDØ(äÉ
+"	Ó=¶  éJπ
+äÉ
+Ω"	Ü?¯ ˝EÃ
+äÉ
+]"	∏?Ï  ü;ûÑ„ú"	ñ/î   ¯N§˚ø"	¢!‹8  ”Væ"Ò± Ñ"	ä3Ä" ÓQèÒ± Y"	‰3ÿ' ÎPõÒ± m"	Ê3ﬁ'  íA¨*¶◊ "	˛7™,  ôXÄ*¶◊ô"	Ú7æ,  ï?Æ*¶◊√"	˛7∞,  î:ç*¶◊Ö"	Ç8Æ, †Bj•’∆"	æ9æ.  ìBÀ•’¡"	∫9¬. £B≠•’h"	æ9¬.  úB¶•’ï"	æ9ƒ. ö=\•’à"	ƒ9¿. õ@}•’®"	ƒ9ƒ.  ù@≈•’î"	ƒ9∆. ¢@l•’±"	»9ƒ.  §Bª•’™"	»9». Â>É•’{"	ÿ>Ü/  óIº∞≠©"	ò<Ë@ ‹O_∞≠ö"	º<‹@

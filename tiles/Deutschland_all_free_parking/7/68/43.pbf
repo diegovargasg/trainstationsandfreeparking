@@ -1,0 +1,256 @@
+∫§x
+Deutschland_all_free_parking(Ä 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Lam"
+Buch"
+Adorf"
+Bogen"
+Graba"
+Hocha"
+Regen"
+Feucht"
+Laaber"
+Weiher"	
+Arzting"	
+Happurg"	
+Harting"	
+Kemnath"	
+K√∂ditz"	
+Miltach"	
+Schwaig"	
+Stockau"	
+Trabitz"	
+Weiding"
+
+Blaibach"
+
+B√∂hmhof"
+
+Enkering"
+
+Eschenau"
+
+Hohndorf"
+
+Krondorf"
+
+Loibling"
+
+Mainleus"
+
+Parsberg"
+
+P√∂lling"
+
+Speikern"
+
+Teisnach"
+
+Wernberg"
+
+Wildbach"
+	Beierfeld"
+	Bodenmais"
+	B√§rndorf"
+	Culitzsch"
+	Deuerling"
+	Etzelwang"
+	Malmsbach"
+	Schilbach"
+	Waldesruh"
+
+Diesenbach"
+
+Giggenried"
+
+Hagelstadt"
+
+Hedersdorf"
+
+Henfenfeld"
+
+Ludersheim"
+
+Neum√ºhlen"
+
+Regenstauf"
+
+Rittershof"
+
+Schwandorf"
+
+Sch√∂nberg"
+
+Wei√üenohe"
+
+Winkelhaid"
+
+Zwoschwitz"
+Altenfelden"
+Gr√§fenberg"
+Hackenhofen"
+Hartenstein"
+Ludwigsberg"
+Oberalteich"
+Probstzella"
+Rappenb√ºgl"
+Seubersdorf"
+Witzschdorf"
+Wolfersdorf"
+Altdorf West"
+Etterzhausen"
+Hartmannshof"
+Lichtentanne"
+Niederlamitz"
+Pommelsbrunn"
+Unterwirbach"
+Waldm√ºnchen"
+Bad K√∂tzting"
+Cham (Oberpf)"
+Obertraubling"
+Unterk√∂blitz"
+Waldetzenberg"
+Adorf (Erzgeb)"
+Kirchenlaibach"
+Klettigshammer"
+Mitteloelsnitz"
+Postbauer-Heng"
+Ruhmannsfelden"
+Wilkau-Ha√ülau"
+Deining-Bahnhof"
+Blaibach(Oberpf)"
+Grafling-Arzting"
+Saalfeld (Saale)"
+Sch√∂neck(Vogtl)"
+Wurzbach (Th√ºr)"
+H√∂henberg im Tal"
+Kirchenlamitz Ost"
+Maxh√ºtte-Haidhof"
+Neuhaus (Pegnitz)"
+Neumarkt (Oberpf)"
+Oelsnitz (Erzgeb)"
+Stockheim(Oberfr)"
+Neunkirchen a Sand"
+Deining (Oberpfalz)"
+Eschenau (Mittelfr)"
+Neuhaus a.d.Pegnitz"
+Neunkirchen am Sand"
+Neustadt (Waldnaab)"
+Niederdorf (Erzgeb)"
+Plauen(Vogtl) ob Bf"
+Allersberg (Rothsee)"
+Lichtentanne (Sachs)"
+Niederdorf (Sachsen)"
+Waldkirchen(Erzgeb.)"
+Altdorf (b N√ºrnberg)"
+Altenstadt (Waldnaab)"
+Kinding (Altm√ºhltal)"
+Neukirchen-Klaffenbach"
+Regensburg-Burgweinting"
+Lauf (links der Pegnitz)"
+Neuhaus (an der Pegnitz)"
+Altenstadt an der Waldnaab"
+Schwarzenberg (Erzgebirge)"
+Ziegelh√ºtte (bei Altdorf)"
+R√∂thenbach bei St. Wolfgang"
+Seubersdorf in der Oberpfalz"
+Bad Blankenburg (Th√ºringerw)" 
+Hersbruck (rechts der Pegnitz)"#
+!Neukirchen (b Sulzbach-Rosenberg)"#
+!Neukirchen bei Sulzbach-Rosenberg"4
+2{"amenity":"parking","fee":"no","park_ride":"yes"}"C
+A{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes"}"C
+A{"amenity":"parking","capacity":"7","fee":"no","park_ride":"yes"}"D
+B{"amenity":"parking","capacity":"10","fee":"no","park_ride":"yes"}"D
+B{"amenity":"parking","capacity":"14","fee":"no","park_ride":"yes"}"F
+D{"amenity":"parking","fee":"no","park_ride":"yes","supervised":"no"}"L
+J{"amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"surface"}"[
+Y{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side"}"a
+_{"amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"surface"}"c
+a{"access":"yes","amenity":"parking","fee":"no","name":"P4","park_ride":"yes","parking":"surface"}"d
+b{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface"}"d
+b{"access:disabled":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","park_ride":"yes"}"e
+c{"access":"yes","amenity":"parking","capacity":"13","fee":"no","park_ride":"yes","supervised":"no"}"f
+d{"access":"yes","amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"12","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"29","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"34","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"bing"}"i
+g{"access":"no","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"j
+h{"access":"yes","amenity":"parking","fee":"no","name":"Park+Ride","park_ride":"yes","parking":"surface"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"unpaved"}"o
+m{"amenity":"parking","capacity":"4","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"p
+n{"access":"yes","amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"surface"}"p
+n{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"DOP_LVA_BY_01"}"q
+o{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface"}"s
+q{"access":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"street_side"}"s
+q{"amenity":"parking","fee":"no","name":"Oberer Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"u
+s{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Am Bahnhof","park_ride":"yes","parking":"surface"}"v
+t{"access":"permit","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"street_side"}"v
+t{"access":"yes","amenity":"parking","fee":"no","name":"Bahnstation -B√∂hmhof","park_ride":"yes","parking":"surface"}"w
+u{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","wheelchair":"yes"}"x
+v{"access":"yes","amenity":"parking","fee":"no","name":"Neustadt (Waldnaab) P+R","park_ride":"yes","parking":"surface"}"x
+v{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz am Busbahnhof","park_ride":"yes","parking":"surface"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"}
+{{"access":"yes","amenity":"parking","capacity":"7","fee":"no","name":"P&R Parkplatz","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P1","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P2","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P3","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"}
+{{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"unpaved","wheelchair":"no"}"~
+|{"access":"yes","amenity":"parking","capacity":"1","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","capacity":"9","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"32","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"bing","surface":"pebblestone"}"Ä
+~{"access":"yes","amenity":"parking","capacity":"18","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"surface"}"Å
+{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"S-Bahn","park_ride":"yes","parking":"surface"}"É
+Ä{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"É
+Ä{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ö
+Ç{"access":"yes","amenity":"parking","fee":"no","name":"Busbahnhof Teisnach","park_ride":"yes","parking":"surface","source":"bing"}"Ü
+É{"access":"yes","amenity":"parking","capacity":"10","check_date:fee":"2021-11-10","fee":"no","park_ride":"yes","parking":"surface"}"á
+Ñ{"amenity":"parking","capacity":"100","fee":"no","name":"Bahnhofsparkplatz","park_ride":"yes","parking":"surface","supervised":"no"}"â
+Ü{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","source":"DOP_LVA_BY_01"}"â
+Ü{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P+R Parkplatz","park_ride":"yes","parking":"surface"}"ç
+ä{"access":"customers","amenity":"parking","capacity:disabled":"yes","fee":"no","name":"P+R Bahnhof","park_ride":"yes","parking":"surface"}"é
+ã{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"è
+å{"access":"yes","amenity":"parking","capacity":"40","fee":"no","motorcar":"yes","park_ride":"yes","parking":"surface","surface":"compacted"}"î
+ë{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"ñ
+ì{"access":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","name":"park+ride","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ñ
+ì{"amenity":"parking","area":"yes","capacity:disabled":"1","fee":"no","level":"0","name":"Bahnhof Winkelhaid","park_ride":"yes","parking":"surface"}"ó
+î{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"survey","toilets:wheelchair":"no","wheelchair":"yes"}"ò
+ï{"access":"customers","amenity":"parking","capacity":"1","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ô
+ñ{"access":"yes","amenity":"parking","capacity":"229","fee":"no","maxstay":"30 days","name":"Bahnhof","park_ride":"yes","parking":"surface","ref":"P5"}"õ
+ò{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:parent":"0","capacity:women":"0","fee":"no","park_ride":"yes","parking":"surface"}"û
+õ{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"2","fee":"no","name":"Bahnhof Pommelsbrunn","park_ride":"yes","parking":"surface"}"†
+ù{"amenity":"parking","capacity:disabled":"1","check_date":"2023-01","fee":"no","level":"0","name":"Bahnhof Winkelhaid","park_ride":"yes","parking":"surface"}"°
+û{"access":"yes","amenity":"parking","capacity":"84","fee":"no","fuel:electricity":"yes","name":"P+R","park_ride":"yes","parking":"surface","wheelchair":"yes"}"£
+†{"access":"no","amenity":"parking","capacity:disabled":"yes","fee":"no","motorcar":"designated","park_ride":"yes","parking":"surface","surface":"paving_stones"}"£
+†{"access":"yes","amenity":"parking","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no"}"£
+†{"access":"yes","amenity":"parking","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"§
+°{"access":"yes","amenity":"parking","fee":"no","note":"Neuer Erweiterungsparkplatz f√ºr Park&Ride","park_ride":"yes","parking":"surface","surface":"fine_gravel"}"≠
+™{"access":"yes","amenity":"parking","capacity":"4","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"∞
+≠{"access":"customers","amenity":"parking","capacity":"25","capacity:disabled":"1","fee":"no","name":"Park-and-Ride","park_ride":"yes","parking":"surface","wheelchair":"yes"}"∞
+≠{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"±
+Æ{"access":"customers","amenity":"parking","capacity:disabled":"4","fee":"no","lit":"yes","operator":"Deutsche Bahn","park_ride":"yes","parking":"surface","surface":"asphalt"}"±
+Æ{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","lit":"yes","name":"Park&Ride Altdorf West","park_ride":"yes","parking":"surface","wheelchair":"yes"}"æ
+ª{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"¡
+æ{"access":"yes","amenity":"parking","capacity":"32","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"—
+Œ{"access":"yes","amenity":"parking","capacity":"45","capacity:disabled":"2","fee":"no","name":"Parkplatz P√∂lling-Bahnhof","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"yes"}"“
+œ{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Ï
+È{"access":"yes","amenity":"parking","capacity":"80","fee":"no","name":"Parkplatz ehemaliger G√ºterumschlagplatz","operator":"Stadtverwaltung Oelsnitz/Erzgeb.","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"	 2‹¬€J@"	z!;sV@"	±Œ–e@"	<|dÙSN@"	
+
+äÇGLâ@"	
+Rw∏9ôÅ@"	ìˇi˝ :@"	ÿ∂k≤y}@"	ÕqÃø®ô@"	¯+6)É\@"	"5ﬁv@"	á|≠q@"	ËêÂœ-@"	≈R"øõ@"	˙˛m÷¢@"	_"¸ãŸ]@"	ó_§5;@"	—éD1@"	?»¥1ñu@"	qAŸ+¶:@"	"C¢ñ0T@"	"g∏Î˜M@"	#åßï°@"	$L2H€rN@"	&7!D%ÌÜ@"	&N¡»u•@"	&ŸBLïÒz@"	'uav+€A@"	)ØeÂ*d@"	)÷UX≠å@"	)›´m∑∫å@"	,R´a Ø@@"	,öD¨ﬁØ§@"	.$⁄à«P@"	1Ziëpò@"	2LIˆò„P@"	2Ìì#3Å@"	5ûƒ≈·d@"	8h'xêÜ@"	8Îuirÿa@"	:ânxÒ(ç@"	:¡ﬂ˛l@"	;"≈ô@"	;≈°›_VM@"	<?Ñ ˜~@"	<¨vÖ5ãS@"	=Ö¯qßxu@"	>fSU+èv@"	C @ﬂÁì@"	FA§QS@"	F∂ê5≥19@"	Fœ∆™.å@"	Gòag cc@"	G«…˙
+|@"	Hí≈//]@"	H;FK‚™É@"	Ila'Ë£ã@"	JßØ…ÿæR@"	L©åXDR@"	Mjœ#˙˚=@"	M¸úƒ ú@"	OÇ€¸ è@"	P∏u∑fA@"	P¸i(1›ò@"	R>Á“xÅ@"	Tã•˛
+3@"	X8\YøV@"	X™héA˘ó@"	X∞É˘!¿c@"	Yxú∫ãmi@"	Yó|âPh@"	Y¿ôPöV@"	[∂+–ëT@"	aπ—py@"	b¨≥?Wót@"	cÑ™µœqí@"	fÇ…O@"	h÷à≠%r@"	k˙ü]ºÍ{@"	pn,
+Y\@"	t|ˆ“∂ó@"	uH·5&øÇ@"	x1D‰îP@"	xïU }$O@"	y•(Y˜2ñ@"	{øó‰Ël@"	|“W˘J=x@"	a≤¡Sy@"	Ä¢‚Õb@"	Äå!üz1@"	Åa|?`Úí@"	Ç}=o†@"	Ç=#$]⁄û@"	Ö ∏¥~å@"	àÃ5ü¶⁄Ä@"	âSreÑ¢@"	â®|yﬂ]Å@"	äÊ_xıC@"	å.¯˘3R@"	êï∏πÔg@"	í{|~ãﬂb@"	í~ŸfÃ^É@"	íæ{?}R@"	ìì∆baöQ@"	îZ9±‘√Q@"	îd%jé°b@"	îÚ3ÂË,†@"	ï+≥*ß√é@"	ñh®…+fë@"	óÜ?|¶;U@"	ö%Ì+≠X@"	öA¯†N@"	öU√¡≥Xu@"	ö‘\Ä‰—î@"	ú	÷}Ye@"	úÄ;Ä≠R@"	úéS›ÇìO@"	ùQ‹ƒÇﬂï@"	ûD€ƒÏ@@"	†â”∫!i@"	¢[≥º5{@"	•JA[Ÿ?@"	¶`oº„◊d@"	©°QÚ)#Å@"	™(ŸV™fÅ@"	™áQÿ √U@"	´`SîuµH@"	´ª t/rÑ@"	´⁄
+∞UÄ3@"	´Í˙æ@Y@"	ØG0gqxx@"	±L∆Ç@"	±ÖΩÃ#¸û@"	±ã=„'z_@"	±ÌSΩ"åP@"	≤Ó]€K?@"	¥f/øˆK;@"	¥£¸‚y@"	µíΩË*V@"	∑À2à@"	∏Nó|ËOI@"	∏ÏX$gF@"	ª®Qe&Ä@"	º≥q(Y@"	ºö†âXR@"	ºµRiç	`@"	ºª&ÙTC@"	ø”∆πı4u@"	¿ªÕ∆†jÄ@"	√'∆ÇDÑ@"	√ç≠Ü^ºÇ@"	≈\Ë"∫;`@"	∆]¿ªïT{@"	∆_wíﬂÁ>@"	∆€ëu-øN@"	«ˆ"∏’cX@"	»Å>y˙é@"	»RZ"≠FO@"	»∏û’Zb@"	…AII
+∑T@"	  @NÁw@"	ÀOµ≈êgj@"	À‡ñâs˝û@"	Ã£µÃWê@"	Õ5E˚„P@"	“ÌI-û®V@"	”_µOD¢@"	‘¬˛2Ç;§@"	’xrìYFk@"	◊ˆ»@FÍû@"	ŸU;!ÏN@"	Ÿ/ÙJ	k@"	Ÿ7ÛdZhA@"	Ÿk√s÷áß@"	ŸãHU≤T@"	⁄7P@?a@"	€√8¥ìµ>@"	‹o$$£Ç@"	ﬂ’ìt_ja@"	·•ñbÖY@"	·¿<G>ò;@"	„#1ÛÄV@"	„)ä·ÀN@"	„IO=°öÄ@"	‰êo:]@"	Ê·KÎ·~H@"	ÁO≤õÁ]}@"	Íjßòz˚ä@"	ÍØpﬁ∆=è@"	Íˇ∞ÊR@"	ÎP1ìÑF@"	Ï≥v€¨Î|@"	Ì°‘†@"	Ì!\Nq"v@"	Ì©Òön°@"	ÓIÜü˚™W@"	Óï∆RwÍö@"	Ô˝Úz Õx@"	Ç˘M&[@"	Ú7çŸ—em@"	Û÷å‹–<@"	Ù“ü‘»Å@"	ıE;ìÌ!ü@"	ı∆C/W-K@"	ı‰jü‡ŒI@"	ıÂ+Û¢©@"	ˆ˚õõb@"	¯:a®“lS@"	˚Õ¯ÂÕ7O@"	ˇõ‰»\Âó@" Ä”§$" Å’Â!" Å·ƒ" ÇóπØ" ÇÔ…ò" ÑÀ∂r" ÜΩ™≤" áP" á§Õÿ" á±›é" á‡ÊT" àπ†Ú" àËºr" âïû" â«íâ" âÛ˙â" âˇŸŸ" äâ" ä∂" ãõ" ã·" å" åX" åù" çÈôÂ" èn" ê£" ê’™." ë∫˝." ë‡Ωr" í˜" ì" ìŸÊT" ìÎ‘„" î" îN" îâô" îßªr" î≥" ïñ¥" ïÎ“Ã" ï˚ˆ!" ñ" ñ" ñé ≠" ó∏‚" ó äÎ" òåõ" òæö" ò¡¿" ô–ıí" öé ≠" öÊ" öÍí±" öÏÀ" ú9" ú^" úãΩ" ù˘´‰" ûÆ˜ã" û¸”⁄" üΩÀ…" ü€ÏE" †" †ô¢Å" †€ÏE" †˘" °ñ¥" °ò" °æºr" °€ÏE" °‹Ñn" ¢ï”ã" ¢¨Ωr" ¢ºær" ¢î" £§øb" £œ" £˘" £˝" §" §ï" •|" •§ƒÁ" ••Œÿ" •Á„" ¶ß" ßâ©’" ®ê" ®«ŸÒ" ®Ê" ™" ™" ™Ü" ™…≤" ´è" ´œõ" ¨" ¨" ¨Ö·{" ¨ôÉ≈" ≠ƒ÷" ≠»®Â" ≠¯ß" Æ¯ß" Ø" Øõør" Øøì˚" ∞ç" ∞†©P" ≥ƒÚ€" ¥´á’" ¥˜¬⁄" µÿ˘" µ˚ˆ!" ∂" ∂¿" ∑" ∑ñø" ∑Ê˚û" ∑¸öÑ" ∏" ∏´¥å	" ∏Øì_" π›" π·ær" π‰˙¡" ∫ö†i" ∫úÚZ" ªÆ©P" º∏»—" º«ºr" ΩL" æˆ˛L" øÅ—" ¡Ö¡)" ¡•¿h" ¡„≠Â" ¡‰" ¬›“0" ƒé—C" ƒ„≠Â" ƒÙ¶≥" ≈ù" ≈ıó " ∆í" ∆ûÒˆ" ∆∆ƒÑ" ∆‚ı" «ë" «ñ∞‚" »™Å"  ∏¿" ÀÆ∫ã" À„…«" ÃC" Œºóƒ" œ¢ΩÖ" œ–°ï" œˆâ" –§™Õ" –‚Œo" “ôÛ" ”Åﬂ|" ”ê¬" ”´ºr" ‘`" ’‰Ω" ÷à¬‚" ÷äƒ¢" ÷Õ‹" ◊" ◊T" ◊¢î" ◊Õ‹" ÿè¡⁄" ÿÁû" ÿˇÆß" Ÿç∫r" ŸÁº`" ⁄éØè" ‹M" ‹í" ‹≥Á" ‹∏˚≠" ‹Û" ‹¯è" ›ñ¨¬" ﬁèØ" ﬁŸΩr" ﬁ˝" ﬂ´‘Í" ‡óËŸ" ‡∞" ‚¸»ö" „ê" „ï™" „⁄" ‰d" ÂΩ¯ä" Ê®®/" Á" ÁW" ÁªÔë" Á—“ì" Á˙¨ó" Íóú¬" Í¡÷Ï" Í›ª»" ÎΩŸˆ" Î¯ºÌ" ÏÉù" Ì†åL" Ó3" Ó™Ù" ÓÂ" Ó¯ºÌ" Ô¬ö" Ô÷÷" ≠Â" Òç˚∫
+" Òˆº3" Ò˝Üƒ" Ú†ºr" Ú§ûº" Û¢í©" ÙÆÆü" ıâ" ıå¶˛" ıÌË⁄" ˆç‡Ù" ˜ô" ˜Ã¢„" ˜÷Â" ˜Òû‹" ¯†" ¯æüŒ" ¯Ã∫v" ¯’™" ˚Çá‘" ˚ç⁄Ó" ¸ïüÉ" ¸° Í" ¸÷Ó„" ¸ˆ" ˝1" ˝÷Ó„" ˝Â££" ˛L" ˛õ†i" ˛û¿r" ˇ6" ˇè  ØÃÀ6É≠6◊"	 ¨'! Àπªg∆¸¸"	ëú)! ˙æˆ≈≤(¡"	áÏ,! ◊õÔõÄ{Ç"	á˛/  ˘®ÇmÎµ9´"	oö4  —©§mÎµ9ö"	oö4  ˇ™ÉmÎµ9¨"	oú4  ’å⁄mÎµ9£"	oû4  √ã÷Qº©Ò"	¸$! îÆÓtº©∞"	¥%ù  ¡ôõpâÿBˇ"	Ú){  øºû}ÜüJ¥"	8˙! Œ≥ß[£á∆"	Ëä! Í¬§[£á "	Ëê! ⁄é√?Ìë?ı"	Ç∫! ”Öì?Ìë?ä"	Ü∫  ∑í’dÍñC≥"	^∞! Ù∑÷]‡œSï"	‘‹	! »Ñù´Ü˝"	Œ ! ’àæê˝á"	Ù‹! »ÉÜªô£"	æ	í! ËàÏRé∂RÅ"	¯Ó! Âà®Ré∂R˘"	˙Ó! ÌàèRé∂R‘"	ÄÓ! …ü¯l—ê8Ó"	¸¢! Ωân…®Gõ"	Ã¨! ›…àWìò%˚"	‹ò! ‘†Û\πâ)¢"	Úî! è¨á_¢¨HÑ"	‡¥  œõÍ:É≠6Ö"	Ù&! Öù»aüÃhÄ"	Ï∫'! ÄàäwüÃh°"	Ú≤'  á¥ﬁvÊæ5¸"	f‘+! ÷àˆeﬂÒi∏"	“î+! µ±∑.†Å.Á"	Ñ∂)! ÑÀîÏ–ﬁ"	àÄ+! ﬁó•/úÇ/µ"	åÏ+! èÕÈ~Ùå	ò"	ˆ¬+! éÕÄ~Ùå	•"	¯ƒ+! ß–Å~Ùå	¶"	¯¬+! ◊»ã~Ùå	˜"	˛¬+! –øƒ7È¯7å"	î“/! ô≈Ë7È¯7–"	î“/! ¨œÿDıπ0¿"	àÿ/! ÷≤«q˛•zØ"	≤‚/! Æ—âÅ∑ê"	¸+! ⁄ƒóIΩƒI„"	¸Ï+! ∆û‰F¡€FÕ"	¸Ù+! ÀàΩ'¬Ã'¬"	“˛*! ∞ÅÙÕ§ô"	÷¶!" óòÃ‹ÏÄ˝"	ÆÇ+" ¬¿‰‹ÏÄç"	≤Ç+! ‚à€Uæ¿›"	ºÃ2! ıàÒUäÁî"	º“2! ã“”í‰3˚"	⁄§3! ·«çb¸¢^ı"	÷Ê3! ¥ë˙f∂ÔX¢"	Çû6! ∞ÇÆf∂ÔXÉ"	Ñú6! Ó ﬂsˇ∫Û"	Ï¬=! ÚŒâsˇ∫ë"	Ú =! ØäñAÒ‰|‡"	Ãæ7! Öò≠Ë´;©"	Í
+–7! ¶ß…”ÿ"	≤:! †ßÏ”û"	≤:! ÿΩù”Ô"	∫Ù:! Û¶›&˘äPÎ"	ê;! ¥§újÂ≈x¯"	Ùˆ#! Ûç€rÂ≈x∫"	Í¶$! ë£˘rÂ≈xÍ"	Ï¶$! Áà‹ ÕÈOñ"	¥¬*! ‚∫™4ˆŸŸ"	∞Ù1! ªúÊ`Ñ√@⁄"	¬∞6! ò∏Œ2“„+†"	Ùà9! çªèEùE‹"	∂ú<! ïî“EùEœ"	ƒû<! ˙≠éEùE◊"	ƒû<! ±Ø†u˜Î˜"	¥–=! Ê¡ˇu˜Îü"	≤‘=! «ìéu˜Î˛"	≤‘=! ©ÇöN€˜N≈"	¸º>  ì‘úc ™±"	Ê   ≤”Ñc ™ø"	Í   ûà·T£™*à"	í!V! Œõﬂ<±à!ó"	ä Ü! „ãπ<±à!Î"	å Ü  ≥∂‚kÆ≥oÌ"	"(! í√ºy∫ç"Ÿ"	Ñ#!  èÖK›ƒí"	Ù î0! Ó∞Múß„"	Ü Ã5! ˚öÊ˝Ú1å"	ﬁ"∂4! øêê“‡¶"	∆"–7! ñàìYﬁŸü"	º#–7! ®à°YﬁŸË"	º#–7! ˛ñÚL¯É=≤"	º$¶7! îàíL¯É=Ú"	º$¶7! «•˛¿°Ü"	‘'Ú;! ûµ˙¿°È"	÷'Ù;! ˆÜÂV∏°,Ì"	–'‘=! ùáÁ ö‘ —"	˛(‘6! öá’ ö‘ ï"	Ä)‘6! Ô¢·àå#ë"	¨*¿;! ·ïã∏ã$‚"	Ù*¥>! ‹´∂-Çï-Ù"	¸ˆ@! ˚∆Âõ≠>ô"	‹ ¥@! ﬂ°òZºó
+‡"	ö'éA

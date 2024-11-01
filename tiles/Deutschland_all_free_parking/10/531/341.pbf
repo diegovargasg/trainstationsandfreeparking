@@ -1,0 +1,112 @@
+¾bx
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Haan"
+Serm"
+Oefte"
+HÃ¶sel"
+Nierst"
+Rath S"
+Schuir"	
+Ehingen"	
+Erkrath"	
+Gruiten"	
+Homberg"	
+Kettwig"	
+Selikum"
+
+Hochdahl"
+
+Ilverich"
+
+SÃ¼dpark"
+
+Wittlaer"
+	Angermund"
+
+IsenbÃ¼gel"
+Neanderthal"
+Rheinhausen"
+Eggerscheidt"
+Essen-Werden"
+Gerresheim S"
+Ratingen Ost"
+Staufenplatz"
+Duisburg-Rahm"
+Grimlinghausen"
+Morper StraÃŸe"
+Kettwig Stausee"
+Neuss Am Kaiser"
+Duisburg-Schlenk"
+DÃ¼sseldorf-Hamm"
+Duisburg-Buchholz"
+Hochdahl-Millrath"
+Mettmann Stadtwald"
+MÃ¼nchener StraÃŸe"
+Duisburg-GroÃŸenbaum"
+Heerdter Krankenhaus"
+Kalkumer SchloÃŸallee"
+DÃ¼sseldorf-Eller SÃ¼d"
+Gerresheim Krankenhaus"
+DÃ¼sseldorf-Eller Mitte"
+Sportpark Nord/Europaplatz"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"[
+Y{"access":"private","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"m
+k{"access":"customers","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface"}"u
+s{"access":"yes","amenity":"parking","check_date:fee":"2024-09-05","fee":"no","park_ride":"yes","parking":"surface"}"|
+z{"amenity":"parking","fee":"no","name":"Park&Ride Gerresheim Krankenhaus U-Bahnhof","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"~
+|{"access":"yes","amenity":"parking","fee":"no","name":"P+R, DÃ¼sseldorf-Rath, Rath S","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","fee":"no","name":"B+R, Ratingen, Ratingen Ost Bf","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","capacity":"42","fee":"no","name":"P&R,HÃ¶sel","park_ride":"yes","parking":"multi-storey"}"
+{"access":"yes","amenity":"parking","capacity":"21","fee":"no","name":"Haan Bahnhof P+R","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","capacity":"40","fee":"no","name":"P&R, Rheinhausen","park_ride":"yes","parking":"surface"}"ƒ
+€{"amenity":"parking","capacity":"26","fee":"no","fixme":"lit, surface","name":"Am Kaiser","park_ride":"yes","parking":"surface"}"‡
+„{"access":"yes","amenity":"parking","capacity":"18","fee":"no","name":"P&R, Duisburg Schlenk","park_ride":"yes","parking":"surface"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"P+R Kettwig Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"limited"}"
+Š{"access":"yes","amenity":"parking","capacity":"100","fee":"no","name":"P&R,Mettmann Stadtwald,Ost","park_ride":"yes","parking":"surface"}"
+{"amenity":"parking","check_date":"2023-09-17","fee":"no","name":"Park&Ride Wittlaer U-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 8911","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"”
+‘{"access":"yes","amenity":"parking","capacity":"26","fee":"no","name":"Haan Bahnhof P+R","park_ride":"yes","parking":"surface","supervised":"no"}"–
+“{"access":"yes","amenity":"parking","capacity":"71","fee":"no","name":"P&R,Erkrath, SÃ¼d","park_ride":"yes","parking":"surface","wheelchair":"yes"}"—
+”{"access":"private","amenity":"parking","capacity":"169","fee":"no","name":"Park&Ride Ratingen-Ost S-Bahnhof","park_ride":"yes","parking":"surface"}"˜
+•{"access":"yes","amenity":"parking","check_date":"2021-06-12","fee":"no","name":"P2","park_ride":"yes","parking":"surface","surface":"paving_stones"}"™
+–{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"limited"}"œ
+™{"access":"yes","amenity":"parking","capacity":"37","capacity:disabled":"2","fee":"no","name":"P&R, Duisburg-Rahm","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Park&Ride SÃ¼dpark U-Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"£
+ {"access":"yes","amenity":"parking","capacity":"14","capacity:disabled":"1","fee":"no","name":"P&R, Duisburg-GroÃŸenbaum","park_ride":"yes","parking":"surface"}"§
+¤{"access":"yes","amenity":"parking","capacity":"13","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"§
+¤{"access":"yes","amenity":"parking","capacity":"54","capacity:disabled":"4","fee":"no","name":"P+R, DÃ¼sseldorf-Rath, Rath S","park_ride":"yes","parking":"surface"}"©
+¦{"access":"yes","amenity":"parking","capacity":"40","fee":"no","name":"P+R S Eller SÃ¼d","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"©
+¦{"access":"yes","addr:city":"DÃ¼sseldorf","addr:country":"DE","addr:housenumber":"82","addr:postcode":"40549","addr:street":"Simon-Gatzweiler-Platz","amenity":"parking","fee":"no","name":"Park&Ride Heerdter Krankenhaus U-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 89-11","surface":"grass","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"­
+ª{"access":"yes","addr:city":"Erkrath","addr:housenumber":"9","addr:postcode":"40699","addr:street":"HÃ¶henweg","amenity":"parking","capacity":"255","capacity:disabled":"2","fee":"no","name":"P+R, Erkrath-Hochdahl-Millrath","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"®
+«{"access":"yes","amenity":"parking","capacity":"19","fee":"no","name":"Buchholz S-Bahn Parkplatz","park_ride":"yes","parking":"surface","source":"Bing","wheelchair":"yes"}"°
+­{"access":"yes","amenity":"parking","fee":"no","name":"Park&Ride BurgmÃ¼llerstraÃŸe/Staufenplatz U-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 89-11","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html","wheelchair":"yes"}"²
+¯{"access":"yes","amenity":"parking","covered":"yes","fee":"no","layer":"2","name":"P+R","park_ride":"yes","parking":"surface","toilets:wheelchair":"no","wheelchair":"limited"}"²
+¯{"access":"customers","addr:city":"Essen","addr:housenumber":"58","addr:postcode":"45219","addr:street":"Werdener StraÃŸe","amenity":"parking","capacity":"21","fee":"no","lit":"yes","name":"P&R, Essen, Essen Kettig","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"´
+±{"access":"permit","amenity":"parking","fee":"no","name":"Park&Ride Gerresheim Krankenhaus U-Bahnhof","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"¶
+³{"access":"yes","amenity":"parking","capacity":"121","capacity:disabled":"2","fee":"no","name":"B+R, Erkrath, Hochdahl S","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¼
+¹{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","fee":"no","name":"B+R, Erkrath, Erkrath S-Bahnhof","park_ride":"yes","parking":"surface","source":"survey"}"¾
+»{"access":"yes","amenity":"parking","capacity":"180","capacity:charging":"1","capacity:disabled":"2","fee":"no","name":"P&R,Mettmann Stadtwald,West","park_ride":"yes","parking":"surface"}"Ã
+À{"access":"yes","amenity":"parking","capacity":"32","capacity:disabled":"2","fee":"no","name":"P+R Pumpstation","operator":"Stadt Haan","park_ride":"yes","parking":"surface","supervised":"no"}"Î
+Ë{"access":"yes","amenity":"parking","capacity":"170","capacity:charging":"2","fee":"no","lit":"yes","name":"P&R,Essen-Werden","park_ride":"yes","parking":"surface","smoothness":"bad","surface":"asphalt"}"Ø
+Õ{"access":"yes","amenity":"parking","capacity":"73","capacity:disabled":"1","fee":"no","maxstay":"no","name":"P&R, DÃ¼sseldorf-Eller Mitte","park_ride":"yes","parking":"surface","supervised":"no","surface":"sett"}"Û
+Ø{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ì
+é{"access":"yes","addr:city":"Mettmann","addr:housenumber":"199","addr:postcode":"40822","addr:street":"Eidamshauser StraÃŸe","amenity":"parking","capacity":"203","capacity:car_sharing":"2","capacity:charging":"2","capacity:disabled":"2","fee":"no","name":"P+R Bahnhof Neanderthal P2","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"õ
+ò{"access":"yes","amenity":"parking","capacity":"155","capacity:disabled":"6","fee":"no","lit":"yes","name":"P&R,DÃ¼sseldorf-Gerresheim","orientation":"perpendicular","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paved"}"€
+ı{"amenity":"parking","capacity":"45","fee":"no","name":"Park&Ride DÃ¼sseldorf-Angermund S-Bahnhof","park_ride":"yes","phone":"+49 211 89-11","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"	 ìÏ³»V@"	£t@‚µŸ@"	§³Ó¶ò“@"	D=#\@"	!xf» ¾@"	ß
+å!ª@"	´D¡’R¼@"	2‰Eæ£¯@"	×Áj%³@"	…GIy©@"	Ãij1]@"	yÈ*´‰O@"	'Lf‰&¨³@"	'¶ÎpûÑR@"	'¹q+Z@"	,_ ©= @"	-=¿çóQ@"	1ä½§‘ÇU@"	8*º¹á(Z@"	<Ö/(ì¤F@"	EÃ£â6½@"	I^@Õ @"	JZ^íG@"	JŸééÖbS@"	L1¦Ø6±`@"	M%4+Zì¦@"	Mï‡é\"j@"	O4';G.k@"	O®`Uª@"	P	Z[^@"	QÃ;|®@"	QèÉz¯bR@"	RÁ¼`´ÒO@"	V¾µ´”¥@"	YIàî_@"	[Áv	‘@"	[“É¦î³T@"	]ÑsIUZ@"	e†»„ËF@"	g$Çšv¹@"	hO4fÑ²@"	hÄ>:[@"	k´ycÛl@"	kú¬Á@"	pˆ“{_Ò\@"	r,FÀ¿}­@"	t­“„l@"	v•Sò©ƒP@"	z”…×6cª@"	|ÂhqD@"	z8¯5t±@"	‚wOóˆ¥@"	‚…V›:½@"	‡ —À=Q@"	‰%ÍˆV°@"	‰Jò9&_@"	‰{¦æÆë¼@"	Š‹övÒZ@"	‹gX y°\@"	‹Š$Rº˜¥@"	øliœÿ·@"	‘-:ĞÀ-C@"	”ßˆêvd@"	–Œ¤CºI`@"	˜’–B²´@"	œ‰ô¼.Š±@"	Ÿxt°?¡@"	Ÿ]_t`@"	¡15ùN®™@"	¦l¥&Åm²@"	¦ø2ü‰±@"	¨‰,®~¤P@"	©Šâú+¾@"	©Ô
+½k[@"	­ï^:Z½@"	°©/–b=@"	¶Õö@Ó÷Q@"	½Í˜Ş¯Y³@"	ÂrcÖ‚µ@"	ÃN¦ödQ°@"	Ä®´·#MÂ@"	ÊĞ¿!¼°@"	Ì¡4·	w@"	Ò8Í«a	º@"	Ó«P1Ù6@"	ØwâŠ—e@"	Úèƒá‰[@"	Û&ñØ1ÒR@"	ã°;|İ°@"	ãxÜr¡WÁ@"	ä(@‡c ´@"	ånà³$=@"	è zæÂ§@"	èm²\:A@"	ét’aèV@"	é¯ùy`B@"	îş˜†ı¼@"	ïƒ²E½@"	ñ0›ÆÉOP@"	ùqÒ×4º@"	û9†B7@"	ü/‡p1»¯@" „ş³ª" †„‹¢" †˜" ‡˜" ŠÂê" ©Ä" ’ìá" ”éÀ{" –´ ¤" —â" ›ùŸ~" œñú" ÈÙ" Ÿ®Z" £ßÑy" £íÃ“" ¤Š" ¦–À¡" §›“f" ©ÈïC" ª " «¯" ¬§©" ·" ¹ñ¶“" ¿²õ" Â³ë" Â·éD" Äüø" Åx" ÅîÎ" Æ " ÆÂ¢:" ÇÆûˆ" ÈÆûˆ" Èç¨" Ë³Í" Ë—‘" Ìƒ¶" Í¿" Ğû¢H" Ñ¾«ğ" Óòó" Õª¢‰" ÖÁÂ" ×Âı°" ×ãï™" Øãï™" ÙÖìŠ" Ùá­Z" ÙşÛ­" Úª¢‰" Û¼Äù" ÛÖìŠ" Ü©" İš¾" ßŒª" áó¸ß" â¾²²" âş³ˆ" ã¡" ä´¨" å ã4" åèÛ(" ëÅ" í¼" îØèy" ğÉ¸É" ó ï‹" õ³Š¢" õıºò" úËÀ" û" üÈó," şò·" ÿ ï‹" ÿ®š£ †;xÑÙ—"	æS Å9ÑÙ|"	Ôğ  ôN$ÑÙ¡"	äÊ ÂCq$ÑÙœ"	æÌ ì4i$ÑÙ"	äŞ Û>¹÷Ğ\"	â¼  Š1¶'÷Ğ"	Øª ÓLs!ÑÙ©"	Èº áF²%‚óg"	Ôì	  é0Š%‚óµ"	ôì	 D^‚óƒ"	ú ‡/m‚ó¨"	¼Œ úZ¯÷Ğc"	Ä†  ×B…+Êõˆ"	°
+Ö& í:e‰ø›"	¦æ3 ÒJv&èî‚"	Š	 0 êG§ èîy"	ô
+‚7  ÁH€Äã¼"	È´'  É5Äã"	Ô¸' ùMuØË
+´"	 Ô-  ÍP¦)ØË
+¥"	Úò, ï3[)ØË
+»"	èÔ, Ú3z)ØË
+o"	äØ,  ğ3„)ØË
+“"	ìĞ, ÔEkèî³"	–Ğ; şV‰*èîa"	¸Œ9 äI{(èî¾"	¼´:  ÖI¿(èî®"	¸Ğ: ‹O¤ıç]"	²/¦  ü7˜ÃâŸ"	à&€ Œ-}Äã"	Ò!€ ….fÄãt"	¾!º  ÎA°Äã·"	²!Ş  ò6‡Äã–"	Ö!„ å<nÕ„~"	€2¢
+ ëUhŞÏp"	ü9ú æW™ŞÏj"	Ô9’  ûY•ØË
+«"	Ş!à3  ß,­ØË
+†"	Ö"ˆ3  İRŒà€	£"	Â(ú3 È@”à€	_"	š(’4  ˆ=¸#à€	‘"	ø7¢+  ö2º#à€	¬"	‚8 +  ñ-±#à€	À"	8¢+ ÿSš#à€	b"	¤8¤+  ÇX’à€	ª"	˜2è1  ÌQ½à€	 "	¬0¾4 ÜK¢"à€	d"	4ˆ5 Æ?r à€	`"	ü9 = ƒTl à€	‹"	æ9¤= 8 à€	w"	„: =

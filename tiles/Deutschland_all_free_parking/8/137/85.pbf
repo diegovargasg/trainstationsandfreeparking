@@ -1,0 +1,141 @@
+ÓZx
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Adorf"
+Gruna"
+Lugau"
+Ohorn"
+Pirna"
+Riesa"
+Taura"
+FlÃ¶ha"
+Nossen"
+Torgau"
+Welsau"
+Wurzen"	
+Boxdorf"	
+Dehnitz"	
+Leisnig"	
+Unknown"
+
+Beilrode"
+
+Buchheim"
+
+Colmnitz"
+
+Falkenau"
+
+Geithain"
+
+Glaubitz"
+
+Gorknitz"
+
+Heidenau"
+
+Hohndorf"
+
+Narsdorf"
+
+Promnitz"
+
+Radeberg"
+	Hermsdorf"
+	Ottenhain"
+
+BurgstÃ¤dt"
+
+Cossebaude"
+
+Lauenstein"
+
+Oschatz BF"
+
+WeinbÃ¶hla"
+
+ZschÃ¶llau"
+Bad Lausick"
+Borstendorf"
+Etzoldshain"
+Hohenfichte"
+Volkersdorf"
+Witzschdorf"
+Zollschwitz"
+GroÃŸsedlitz"
+Obernaundorf"
+Radebeul Ost"
+Schellenberg"
+Weixdorf Bad"
+Kleinnaundorf"
+Neu-Leuteritz"
+NeusÃ¶rnewitz"
+WeinbÃ¶hla Hp"
+Adorf (Erzgeb)"
+Freital-Deuben"
+HartmannmÃ¼hle"
+Kleinwolmsdorf"
+Glaubitz (Riesa)"
+Dresden-Klotzsche"
+Freital-Hainsberg"
+Oelsnitz (Erzgeb)"
+Doberlug-Kirchhain"
+Liegau-Augustusbad"
+LangebrÃ¼ck (Sachs)"
+Leubsdorf (Sachsen)"
+Niederdorf (Erzgeb)"
+Radebeul-Weintraube"
+Hohenstein-Ernstthal"
+Klingenberg-Colmnitz"
+Niederdorf (Sachsen)"
+Waldkirchen(Erzgeb.)"
+Neukirchen-Klaffenbach"
+GrÃ¼nhainichen-Borstendorf"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"a
+_{"amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"surface"}"c
+a{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof","park_ride":"yes","parking":"surface"}"j
+h{"amenity":"parking","capacity":"65","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"unpaved"}"o
+m{"amenity":"parking","fee":"no","park_ride":"yes","parking":"lane","supervised":"no","surface":"cobblestone"}"p
+n{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","smoothness":"excellent"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"q
+o{"amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"sett"}"z
+x{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"~
+|{"access":"yes","amenity":"parking","capacity":"9","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"16","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","capacity":"100","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","capacity":"25","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"„
+{"access":"yes","amenity":"parking","capacity":"90","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"street_side"}"†
+ƒ{"access":"yes","amenity":"parking","capacity":"10","check_date:fee":"2021-11-10","fee":"no","park_ride":"yes","parking":"surface"}"‡
+„{"access":"yes","amenity":"parking","capacity":"31","fee":"no","name":"P+R Bahnhof Klotzsche","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity":"85","fee":"no","motorcar":"yes","motorcycle":"yes","name":"P+R Parkplatz am Bahnhof","operator":"Stadtverwaltung Pirna","operator:type":"public","park_ride":"yes","parking":"surface","ref":"P9","surface":"asphalt"}"Œ
+‰{"access":"yes","amenity":"parking","fee":"no","name":"P+R BurgstÃ¤dt, Bahnhof","park_ride":"yes","parking":"surface","wheelchair":"yes"}"
+‹{"access":"yes","amenity":"parking","capacity":"103","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"”
+‘{"access":"yes","amenity":"parking","capacity":"10","fee":"no","name":"Parkplatz am Bahnhof GrÃ¼nhainichen","park_ride":"yes","surface":"gravel"}"
+š{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","parking:condition:both":"free","surface":"asphalt"}"Ÿ
+œ{"access":"yes","amenity":"parking","capacity":"62","capacity:disabled":"2","fee":"no","name":"P+R Narsdorf, Bahnhof","park_ride":"yes","parking":"surface"}"¤
+¡{"access":"yes","amenity":"parking","capacity":"48","fee":"no","lit":"yes","name":"Parkplatz Busbahnhof","park_ride":"yes","parking":"surface","supervised":"no"}"«
+¨{"amenity":"parking","capacity":"15","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"40","check_date:fee":"2022-08-27","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","ref":"P1","surface":"paved"}"¯
+¬{"access":"yes","amenity":"parking","capacity":"50","check_date:fee":"2022-08-27","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","ref":"P2","surface":"paved"}"°
+­{"access":"yes","amenity":"parking","capacity":"100","fee":"no","name":"Am GÃ¼terbahnhof","operator":"Stadt Oschatz","park_ride":"yes","parking":"surface","supervised":"no"}"¾
+»{"access":"yes","amenity":"parking","capacity":"82","capacity:disabled":"no","fee":"no","name":"P+R Klingenberg-Collmnitz","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Æ
+Ã{"access":"yes","amenity":"parking","fee":"no","maxstay":"0","name":"Parken Am GÃ¼terbahnhof","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"Ñ
+Î{"access":"yes","amenity":"parking","capacity":"90","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paving_stones"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"25","fee":"no","name":"Weixdorf Bad","opening_hours":"24/7","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paved"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Ö
+Ó{"access":"yes","amenity":"parking","capacity":"52","capacity:disabled":"2","fee":"no","note":"mit ParkÃ¼berwachungssystem zur Angabe der Freien PlÃ¤tze Ã¼ber eine website","park_ride":"yes","parking":"surface"}"Ö
+Ó{"access":"yes","amenity":"parking","capacity":"74","fee":"no","maxstay":"0","name":"Parken Am GÃ¼terbahnhof","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"asphalt"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"38","fee":"no","name":"P+R","opening_hours":"24/7","park_ride":"yes","parking":"surface","website":"https://www.dresden.de/freie-parkplaetze/parken/detail?id=PR05"}"ã
+à{"access":"yes","amenity":"parking","capacity":"125","fee":"no","name":"P+R Parkplatz am ZOB","operator":"Stadtverwaltung Pirna","operator:type":"public","park_ride":"yes","parking":"surface","ref":"P14","surface":"asphalt"}"ã
+à{"access":"yes","amenity":"parking","capacity":"50","fee":"no","name":"P+R Bhf LangebrÃ¼ck","opening_hours":"24/7","park_ride":"yes","parking":"surface","website":"https://www.dresden.de/apps_ext/ParkplatzApp/detail?id=439"}"ì
+é{"access":"yes","amenity":"parking","capacity":"80","fee":"no","name":"Parkplatz ehemaliger GÃ¼terumschlagplatz","operator":"Stadtverwaltung Oelsnitz/Erzgeb.","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"ş
+û{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","covered":"no","fee":"no","lit":"yes","maxstay":"60 minutes","name":"Geithain, Bahnhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","parking:condition":"disc @ (1 h)","service":"parking_aisle","smoothness":"good","supervised":"no","surface":"paving_stones"}"	z!;sV@"	õñs³@"	Ûâèùô¤@"	{ENI]L@"		QÊş+^@"	
+rSêœ6@"	³D !3b@"	GÙD@"	²	Y\¥@"	6Î„-\@"	İ.ï¤gT@"	Úvª4A@"	$vî@ø£@"	+uë^q¤@"	,Hß°ª@"	,K²ê ’@"	/Ùª@†P¡@"	2ı5_fŒA@"	7ëæš%< @"	;"Å™@"	;Î÷Dcû@"	>_ï)¢…@"	?:ŸE@"	?9s@¥@"	AƒÈ¸1¶d@"	Cã}ğªs@"	JNòÜAx@"	KkYíy¦@"	Ksí½ue@"	MŸş	ÓY@"	MtÆaÅšk@"	Rü+öa‡F@"	VÆ3o¬÷›@"	XÌ•Í\øT@"	YÈé­*{X@"	]…Ä>œÈ{@"	`ÉFY$—@"	bKa|¡E@"	eŸ*Ù§QY@"	l\ı…¸ª@"	p#zFB@"	p@¹xò[©@"	vœ"Å;4@"	wô‰3ÃÍ€@"	yFôÕN@"	y½;
+4©@"	zò¸–©šW@"	{rŠ(oª@"	€ıd\(h6@"	Ñ@m½‹@"	‚}=o @"	‚=#$]Ú@"	…}ÉßM§@"	ˆP{^•ËY@"	ŠÆ˜Œ®‹@"	Œd1	•³6@"	8.ËúV@@"	€\yé@"	”ò3åè, @"	”ÿFYŞ1‘@"	›19v¦@"	¢ğ®¨(*Z@"	¦ğ(19V@"	®Yz×ÜØS@"	°O¼ÒQ@"	±ætäM¤@"	³•ï+pS@"	¸ìX$gF@"	¹FUÃ¡@"	ºpã=¡ây@"	»· -ûŸ@"	ÀnDX‰ø@"	ÅRûIïtš@"	Æ]À»•T{@"	Æ_w’ßç>@"	Æ”ğ8÷6©@"	ÇQ¢…`@"	È>yú@"	Ìu â\K@"	Ï4³/›hŸ@"	Ú7P@?a@"	ŞñGµ“b@"	à.iNm¿6@"	à¼—}lU@"	è…àA·«@"	è”I<@"	íí–— @"	í£ËÖ³“@"	ïìk^¦@"	ğ‚ùM&[@"	ò7ÙÑem@"	ıwÿğ£T@" áÄ" ‚" …™" †M" †³Ï}" †´­n" †·" ‡5" ‡P" ˆè¼r" ‰”®Å" ‰äüT" ‰û" Š­¼r" Œ" –" Ù†o" µ" " ‘#" ‘æ@" ‘°°g" ‘ºı." ’Í¾" ”N" •ü" —¨®¡" —Ó•" —ü" ˜ÁÀ" šî¯b" ›*" œ" ÓÌ"  ò" ¢#" £ÃÆ6" ¥½Ò4" ¥¾÷‹" §ú–‹" ©" ©5" ª´" «õÇ…" ¬" ¬€" ¬¸" ­×öã" ­ğê’" ®" °ã" ±İığ" ³’ø±" ³µÈz" ³ÇÈz" ³èİı" ´ğo" ·" ¸œ" ¸¸ğ¥" ¸½÷‹" º" º¶ëÁ" »‚¢" »‡ˆ" ¼‰" ¼Ç¼r" ½ç¿" ¿ø°˜" Â¼ë," ÂÇ" ÂİÒ0" ÄÑC" ÄàO" Æ¬î£" É" É‰Œi" ÉÙŒ‡" ÊŸ" Êó’³" ËãÉÇ" Ïª…a" ĞÏëÀ" Òç‡" Óçü¸" Øôˆ" Û‡ĞU" Üèßœ" İ»" Ş“Ğÿ" Şèµê" ß»Ÿ<" ßÓ˜š	" ày" àÊßƒ" àà‡ğ" ä¨ìD" å¨ìD" æH" æ’" çè¦" é¾ßÈ" ê," ëÛƒ" ìù“Q" íè»r" ïŞÿ" ïúª" ğöª" ñå¾r" ò‡Å" õù" õşc" ÷—›" øšğ" ø¾ŸÎ" øÌºv" ü`" ÿšğ" ÿ¤½ ğVÁ$§»&…"	)Ä" ³M$Şœ¹"	+Î" ôI¡<±¸´"	 )  ê`Æ	á½
+Â"	¨„  æHà—"	ØÈ Iz²«–"	Ì¶  ºf²!•Ù#"	´®  óiŸëõÊ"	ğÆ  ¨r£ı™·"	ğæ(  ·a«ÒÜ¤"	Ì¬,  ¡XÎÕé*‚"	ä¶!  £]‹Ä¼É"	ˆ˜3 ¹L|Ä¼º"	€3  °m±B©¯"	¦Ê;  ¯h™B©"	¦Ê; åJs4İÏ À"	ú	‚>  ÃU½FİÏ ¥"	æ
+Ä=  ŠP¸‰ö»"	Ü( ‚Kñƒu"	Ğ7  ŸOÌEûì)†"	äˆ>  …Iª'÷’'‡"	Üê9  “T„?¬„.Œ"	Œ¨;  †_¨Gîª%©"	ˆ˜= ‡c~8è‹®"	¨ € ®S˜€¶"	æ=°  ¾Y›3ò”""	–)¼!  Q‰2ò”"“"	à(¤" ÀIwAÑ´1¾"	Ä-Î% ¥nxÑ´1ˆ"	¸,ê& ãl¿-ùÆ{"	Â.ò%  ˜^•:š,€"	Ş,è-  ÚbÄ5üÓ0§"	–-ˆ-  Ôg’CĞ¬"	º&°2 ß[}9Ûú(t"	Ê3Î$   jÅ/âµœ"	4ì"  ¦pÈ>ˆ=Ç"	ô5æ# Åevï­š"	Ü6².  Ádµï­"	à6´.  ¢W³Œ¤7Ë"	¢9ö$  şR‘Œ¤7Š"	®9ø$ ›oyÖí+ "	ş9ä/  ä\°Öí+¢"	„:Ø/  ÿN”6ø¿ ƒ"	Ú3ö<  ÂqÍ;ç‘¦"	Îˆ@  –kÃ;ç‘­"	Ò@  —Z¶@×ØD¼"	àĞ@

@@ -1,0 +1,194 @@
+˜x
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Norf"
+Waat"
+Zons"
+Eckum"
+Geyen"
+DÃ¼ren"
+FÃ¼rth"
+Glesch"
+Hersel"
+Hilden"
+Horrem"
+Urfeld"	
+Blessem"	
+Delrath"	
+Derikum"	
+Elvekum"	
+Gindorf"	
+Gustorf"	
+Kreuzau"	
+Opladen"	
+Pulheim"	
+Sechtem"	
+Sindorf"	
+Waldorf"
+
+Auweiler"
+
+Bornheim"
+
+Botzdorf"
+
+Dormagen"
+
+Erkelenz"
+
+Mennrath"
+
+Niederau"
+
+Roisdorf"
+
+Wickrath"
+	Erftstadt"
+	HÃ¶ningen"
+	Immendorf"
+	Kendenich"
+	Merkenich"
+	Merzenich"
+	Rheinfeld"
+	Stotzheim"
+
+Biesenbach"
+
+Birkesdorf"
+
+Fischenich"
+
+Kiebitzweg"
+
+Langerwehe"
+
+Nievenheim"
+
+Roggendorf"
+
+Weisweiler"
+Helpenstein"
+Hilden SÃ¼d"
+KÃ¶nigsdorf"
+Weilerswist"
+Bellinghoven"
+Grevenbroich"
+KÃ¶ln-Nippes"
+Solingen Hbf"
+Roisdorf West"
+Bedburg (Erft)"
+Rommerskirchen"
+SÃ¼rth Bahnhof"
+TÃ¼schenbroich"
+Ziegwebersberg"
+BrÃ¼hl-Kierberg"
+KÃ¶ln-Longerich"
+KÃ¶ln-Worringen"
+KÃ¶ln-Weiden West"
+DÃ¼sseldorf-Garath"
+HÃ¼rth-HermÃ¼lheim"
+HÃ¼rth-Kalscheuren"
+Leverkusen-Manfort"
+Rheydt-Odenkirchen"
+Solingen Vogelpark"
+DÃ¼sseldorf-Benrath"
+Frechen-KÃ¶nigsdorf"
+Leverkusen-Chempark"
+Neuss Allerheiligen"
+Rheydt Hauptbahnhof"
+Heinrich-LÃ¼bke-Ufer"
+Holzheim (bei Neuss)"
+Rodenkirchen Bahnhof"
+DÃ¼sseldorf-Hellerhof"
+Eschweiler-Weisweiler"
+KÃ¶ln Volkhovener Weg"
+Kapellen-Wevelinghoven"
+Langenfeld (Rheinland)" 
+Langenfeld (Rheinl)-Berghausen"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"[
+Y{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"g
+e{"access":"yes","amenity":"parking","capacity":"91","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"161","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"no"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"m
+k{"access":"customers","amenity":"parking","capacity":"60","fee":"no","park_ride":"yes","parking":"surface"}"n
+l{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"5","fee":"no","park_ride":"yes","parking":"surface"}"s
+q{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"yahoo;photograph"}"y
+w{"access":"yes","amenity":"parking","capacity":"26","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"z
+x{"access":"yes","amenity":"parking","covered":"yes","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"|
+z{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"|
+z{"access":"yes","amenity":"parking","fee":"no","name":"Festplatz","park_ride":"yes","parking":"surface","supervised":"no"}"~
+|{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"
+}{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"compacted"}"€
+~{"access":"customers","amenity":"parking","capacity":"95","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"†
+ƒ{"amenity":"parking","capacity":"28","fee":"no","name":"P+R Bornheim","park_ride":"yes","parking":"surface","wheelchair":"limited"}"‡
+„{"access":"yes","amenity":"parking","fee":"no","name":"P+R Kiebitzweg","park_ride":"yes","parking":"surface","wheelchair":"limited"}"‡
+„{"amenity":"parking","fee":"no","name":"Sindorf Bahnhof","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"‡
+„{"access":"yes","amenity":"parking","capacity":"40","fee":"no","lit":"yes","name":"Park and Ride West","opening_hours":"24/7","operator":"Stadt Bedburg","park_ride":"yes","parking":"surface","smoothness":"excellent","supervised":"no","surface":"paving_stones"}"ˆ
+…{"access":"yes","amenity":"parking","capacity":"22","fee":"no","name":"P&R,Solingen Vogelpark","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"Š
+‡{"amenity":"parking","fee":"no","name":"Waldorf Stadbahn","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"‹
+ˆ{"access":"yes","addr:city":"Erkelenz","addr:street":"Neusser StraÃŸe","amenity":"parking","building":"parking","capacity":"722","capacity:disabled":"7","fee":"no","maxheight":"2.1 m","maxstay":"unlimited","name":"P+R Anlage II Erkelenz","opening_hours":"24/7","park_ride":"yes","parking":"multi-storey","ref":"P8","website":"https://www.erkelenz.de/erkelenz-entdecken/parken/#accordion-1-7"}"
+Š{"access":"yes","amenity":"parking","capacity":"146","fee":"no","name":"Park&Ride Hilden S-Bahnhof","park_ride":"yes","parking":"surface"}"Ž
+‹{"access":"customers","amenity":"parking","fee":"no","lit":"yes","opening_hours":"Mo-Su 06:00-22:00","park_ride":"yes","parking":"surface"}"Ž
+‹{"access":"yes","amenity":"parking","capacity":"400","capacity:car_sharing":"2","capacity:charging":"4","capacity:disabled":"6","fee":"no","name":"P&R,Langenfeld (Rheinl)-Berghausen","park_ride":"yes","parking":"surface","toilets:wheelchair":"yes","wheelchair":"yes"}"
+Œ{"access":"yes","amenity":"parking","capacity":"100","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"“
+{"access":"customers","amenity":"parking","capacity":"68","capacity:disabled":"1","fee":"no","name":"P&R","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"28","fee":"no","park_ride":"yes","parking":"street_side","surface":"asphalt","wheelchair":"yes"}"–
+“{"access":"yes","amenity":"parking","capacity":"394","capacity:disabled":"4","fee":"no","name":"P+R Benrath","park_ride":"yes","parking":"surface"}"œ
+™{"access":"yes","amenity":"parking","capacity":"154","fee":"no","name":"Park&Ride DÃ¼sseldorf-Hellerhof S-Bahnhof","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity":"39","capacity:disabled":"2","fee":"no","name":"P&R Bornheim-Hersel","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity":"66","capacity:disabled":"2","fee":"no","name":"Bahnhof Odenkirchen","park_ride":"yes","parking":"surface"}"
+š{"access":"yes","amenity":"parking","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"85","fee":"no","name":"P&R, DÃ¼sseldorf-Garath, Ost","park_ride":"yes","parking":"surface","wheelchair":"yes"}"«
+¨{"access":"yes","addr:postcode":"51377","addr:street":"Moosweg","amenity":"parking","capacity":"46","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"­
+ª{"access":"yes","amenity":"parking","capacity":"208","capacity:disabled":"5","fee":"no","lit":"yes","name":"Rommerskirchen Bahnhof","park_ride":"yes","parking":"surface"}"²
+¯{"access":"yes","amenity":"parking","capacity":"122","capacity:disabled":"3","fee":"no","name":"P&R,Wickrath","park_ride":"yes","parking":"street_side","wheelchair":"limited"}"´
+±{"access":"yes","amenity":"parking","fee":"no","note":"(2018) Das ESRI Luftbild zeigt noch die Nutzung als Busbahnhof.","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¶
+³{"access":"yes","amenity":"parking","fee":"no","fixme":"wheelchair still no?","name":"P+R, Grevenbroich, Grevenbroich Bf","park_ride":"yes","parking":"surface","wheelchair":"yes"}"·
+´{"access":"customers","amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","name":"P&R Wesseling-Urfeld","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"110","capacity:disabled":"3","fee":"no","name":"P&R, Kapellen-Wevelinghoven","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"672","fee":"no","lit":"yes","name":"Park&Ride Weiden West","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"¹
+¶{"access":"yes","amenity":"parking","capacity":"160","capacity:disabled":"2","fee":"no","name":"Park&Ride DÃ¼sseldorf-Garath S-Bahnhof","park_ride":"yes","parking":"surface","phone":"+49 211 89-11","website":"https://www.duesseldorf.de/verkehrsmanagement/mit-dem-auto/parken-in-duesseldorf/park-and-ride.html"}"¼
+¹{"amenity":"parking","capacity":"50","fee":"no","name":"P+R, KÃ¶ln, Bf Volkhovener Weg (DB) (S)","park_ride":"yes","parking":"surface","source":"photography;survey","surface":"asphalt"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"10","fee":"no","operator":"Stadt DÃ¼ren","park_ride":"yes","parking":"street_side","supervised":"no","surface":"asphalt","wheelchair":"yes"}"¿
+¼{"access":"yes","amenity":"parking","fee":"no","fixme":"wheelchair still limited?","name":"P+R, Grevenbroich, Grevenbroich Bf","park_ride":"yes","parking":"surface","wheelchair":"limited"}"¿
+¼{"access":"yes","amenity":"parking","capacity":"12","fee":"no","name":"P+R,Holzheim (b Neuss)","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","source":"https://www.mapillary.com/app/?focus=map&pKey=907990349777723&signs=true&points=true&lat=51.165386702947&lng=6.6648809659553&z=17"}"Á
+¾{"access":"yes","amenity":"parking","capacity":"22","capacity:disabled":"2","fee":"no","motorcar":"designated","name":"P&R,Gustorf","park_ride":"yes","parking":"surface","surface":"asphalt"}"Á
+¾{"access":"yes","amenity":"parking","capacity":"39","capacity:disabled":"3","fee":"no","motorcar":"designated","name":"P&R, Norf, Nord","park_ride":"yes","parking":"surface","source":"Bing"}"Â
+¿{"access":"yes","amenity":"parking","capacity":"141","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"unknown","fee":"no","name":"P+R Heinrich-LÃ¼bke-Ufer","park_ride":"yes","parking":"surface","ref":"16","supervised":"no","surface":"paved","wikimedia_commons":"Category:Heinrich-LÃ¼bke-Ufer (KÃ¶ln)"}"Ä
+Á{"access":"yes","amenity":"parking","building":"yes","check_date:opening_hours":"2024-09-15","fee":"no","name":"Parkhaus","opening_hours:signed":"no","park_ride":"yes","parking":"multi-storey"}"È
+Å{"access":"yes","amenity":"parking","capacity":"67","capacity:car_sharing":"1","capacity:charging":"1","fee":"no","name":"P&R, Rheydt Hbf","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ê
+Ç{"access":"yes","amenity":"parking","capacity":"300","capacity:disabled":"4","fee":"no","lit":"yes","name":"Horrem Bahnhof","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"Ê
+Ç{"access":"yes","amenity":"parking","capacity":"348","capacity:disabled":"10","fee":"no","lit":"limited","name":"P&R, Neuss Allerheiligen, 1","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ë
+È{"access":"yes","amenity":"parking","capacity":"150","capacity:disabled":"yes","fee":"no","name":"Park and Ride Langerwehe","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Ï
+Ì{"access":"yes","amenity":"parking","capacity":"82","fee":"no","note":"Ã„nderungen nach Umbau im April 2016. Nicht mit alten Luftbildern korrigieren!","park_ride":"yes","parking":"surface","ref":"P-Nord"}"Ò
+Ï{"access":"yes","amenity":"parking","capacity":"233","capacity:charging":"2","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R, Lindenplatz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ô
+Ñ{"amenity":"parking","capacity":"160","capacity:disabled":"3","covered":"no","fee":"no","lit":"yes","name":"P&R,Dormagen, Ost","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"54","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R,Nievenheim, West","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"×
+Ô{"access":"yes","amenity":"parking","capacity":"70","capacity:disabled":"2","fee":"no","lit":"yes","name":"P&R, Nievenheim, Ost","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Û
+Ø{"access":"yes","amenity":"parking","capacity":"36","capacity:women":"6","covered":"no","fee":"no","lit":"yes","name":"P&R, Dormagen","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"ä
+á{"access":"yes","amenity":"parking","capacity":"20","construction":"yes","fee":"no","note":"Ã„nderungen nach Umbau im April 2016. Nicht mit alten Luftbildern korrigieren!","park_ride":"yes","parking":"surface","ref":"P-Nord"}"ï
+ì{"access":"yes","amenity":"parking","capacity":"126","capacity:disabled":"0","fee":"no","maxstay":"unlimited","name":"P&R ParkflÃ¤chen Anton-Raky-Allee","opening_hours":"24/7","park_ride":"yes","parking":"surface","ref":"P9","supervised":"no","surface":"asphalt","traffic_sign":"DE:316","website":"https://www.erkelenz.de/erkelenz-entdecken/parken/#accordion-1-8"}"ò
+ï{"access":"no","amenity":"parking","bicycle":"yes","capacity:disabled":"no","carriage":"yes","description":"Ã¶ffentlicher Parkplatz nur fÃ¼r PKW","fee":"no","foot":"yes","horse":"yes","motorcar":"yes","park_ride":"yes","parking":"surface"}"ü
+ù{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"2","fee":"no","name":"P+R","opening_hours":"24/7","operator":"Stadt Bedburg","park_ride":"yes","parking":"surface","shelter":"yes","smoothness":"excellent","surface":"asphalt"}"	dòg‹ÃS@"	ÿîCÁ³@"	eíiƒ@"	vVÞ6p@"	cÚä»„ @"	™íÿ`ÀI@"	ÛY²‹*Ÿ@"	
+ø4Â @"	
+8Ç¤àxf@"	¦ô#åE@"	[,cy@"	R‰=BZ¢@"	(ŒS@"	’}3€³@"	Xí=R]@"	&E@*[U@"	 ¦\œ+D@"	*´Ÿ«°w@"	Hù:R@"	poÀè¼P@"	å,D…'^@"	$…Ë@6`@"	ÎŽ•íY\@"	¬ÆAóhQ@"	 °7×Ïë±@"	!SäU¸R@"	"˜ã¶¹b@"	(ÌD’§@"	*f-W@"	*Éöº!ÝS@"	,’vB¹Ç™@"	,÷ÎöXQ@"	-,eÿ„@"	.~ç\C`@"	0¬!pD@"	3ëµo¢@"	52¿kŠi@"	7c…}Á‹1@"	8¤2dšÈ£@"	9øwD3ïŠ@"	:LHë9‰B@"	;/²tsŒ@"	;pH[}@"	=ßxÂGa@"	>a~-`ž@"	B^ßCxµJ@"	E‹tŽ*U@"	FqÎ$ÕF@"	GÜÒÂNæc@"	I‘-3R›@"	Jî0Çã?@"	K7Y¢ë®@"	L
+QœˆT@"	Ls5pØ¥{@"	Ls]¨V@@"	Lö»B†@"	M°M-)«A@"	N†ÂÓvðX@"	N°Ù¾-å¹@"	Ol»à$ÔŸ@"	P›¡ÑÑ¼@"	Q6ŸEÑB @"	T¹î¿Ò¨b@"	TÉîÇ Ö¡@"	UÞÚôÈÚj@"	V¥/ªÄq@"	Wå]L$±@"	[e×J|©@"	[£T}¤ x@"	\õ!¤I½£@"	_sÅxo¾@"	`á~3jS@"	dÎ¡3Vh@"	e`¼Žì£@"	fî… 	Z@"	mÉ\ÀF˜@"	màâ†¦¢@"	t]60 ÀS@"	tûðKb}@"	wö•µýòŸ@"	x©/;lN@"	yç³p½Æa@"	{QWN}…A@"	|jÇ<ÇLI@"	|Å®ðT@"	¬¯yU§Z@"	'<Ç$ˆ@"	Îdöa@"	‚Ô­L€P¤@"	ƒ±·®µ`³@"	‰»—·Øñ@"	ì"99~X@"	’fï»"†@"	“°ÚàAôK@"	”6Mš
+E@"	•¸>Ú•ê¤@"	– Hõ·x„@"	–*_8Hºo@"	™çä¾¨@"	™G5ž-l_@"	™¶	Z•tR@"	š)†Ñ‡k@"	œï™c>š@"	éÔêöS@"	ž<L¬ï@@"	žm§Å…@"	¡X]Õ+•@"	¢M¡¿Á¢@"	¦_E[šÛ°@"	¨Nç'‹h@"	¨’_JÉ™R@"	«9ƒu¹Z@"	­qÜ¡ãk@"	·Kìåš?T@"	¹I—±Öœh@"	¹˜//Ñm|@"	»¥Åçáƒ@"	Åæõïé£@"	ÇySýúÑ°@"	Ç“à1 °@"	ÇÅBÁOU@"	ÊU•W³³@"	Ë%<ÔN+…@"	ËÛoúÌÎ´@"	Ìcp‚oú£@"	ÌqÉƒœ¨@"	Í6Ç@"	Î- ËÕ”Ÿ@"	ÏØFï:Õ @"	ÑØúQùk@"	ÑÅ›GŸµ@"	Ò4ÛéËÉ8@"	×WÑ¥]Q@"	ØG¼°íÖ˜@"	Úœ(uŠ#g@"	Û÷8¿”D@"	àa[ÉÃh@"	â…A‘>]@"	èV.›…@"	éÅhá—Tª@"	ê~…{ö6@"	ë„žh¢v@"	ì
+xLÉ`¯@"	ò){ðEŸL@"	òÕêµ]n…@"	òÿÔÁ @"	óWÕæuM@"	÷ƒ—&²~@"	÷«Ó"ÓÄ¡@"	ù»—ÀNh@"	ûêÏ€Kc@"	ýq(´Š`@"	þS†¦óš@"	ÿ3FQQõª@" ¿" ‚;" ‚û†" ƒ¨‡†" „ÈÊs" „áÎ*" „û†" †õØ1" ˆ™Š" ‰ü¦H" Š‚äÍ" ŠÌê" ‹" ‹™" ‹º" ‹ý¯t" Œ}" Œº²©" Ž©À" ‘Ðê;" ‘úØÊ" ’†0" “Ù‹v" “ê" ”ã|" ••" •Ì°Ž" •æÝÚ" —þá" ˜" ˜Ì£" ›¤" œ" œr" p" âíç	" ž”" žîé<" Ÿª¢n"  È™" ¡y" ¢®“" ¢²ýµ" ¢¿øV" ¢Ù" ¤œÉD" ¤æªî" ¥Â" ¥ûåN" ¨Š¥ˆ" © " ©Ûúñ" ©ÝÀ°" ©úÍ3" ª4" «ê’0" ¬‹ç" ­œõa" ®" ®™òÁ" ¯ž" ²°ú!" ³ÿ›Ñ" ´Ø²" µí„" ¶‰ªz" ¶¾¥" ¶Ä¤—" ¶ë¼+" ·ëâä" ¸à¾Õ" º‰¼" ºÞ–š" ¼ð£S" ½µù9" ¾çÞ" Àøð=" Á…éó" Ä," Ät" Äï" Å¯" Æ†|" Ç‡â#" ÇŒÏw" ÇöÀU" È¦Òª" ÈÚü" ÈîŽ„" ËóÆY" Ì••¨" Ì¨ºr" Î%" Îo" Ïßð›" Ïì¬" Ñ‰õ" Ñ‘" ÓÖà" Õ™±" Öâ" Ø“ÿ" Ù‘" ÚÅ—|" ÜŸæ" Ý|" Ý²¶±" ß" ßÜ“" áÀá›" â"" âÕÜF" ä“." äáÓW" åãê" åìÄ+" æ¦”§" ç¥Ñƒ" éœˆ" é¥Ÿ" éÐÈ" êµºJ" êÇÐ" ëº" ëùã—" ížÑƒ" í¿Ï" îÌõj" îßÒº" ïÜç¸" ïßš‚" ðÎ|" ðÕå+" ðý¡È" ò›¨5" ò¶Ñƒ" ó" ô" õ³äN" ö|" öŠïÊ" ö›" ÷" ø"" ø|" øŠ¶N" ø" øãê" ùÊÀ" ùâÐª" ú˜Š" úä¦" û˜€µ
+" û˜Ñƒ" û™Ïð" þ…ÜÐ" þ¯é­  ¿›¦•¼5¼"	=Ö Ãr²•¼5é"	=æ …a´RÇ¼0±"	S¤3! ×Ô †å"	ÔÜ! æM¦ü”"	Š
+Ð  Ï|£G¦ü©"	à
+Š  é`À6ÅÓÏ"	ö¬! ºƒË6ÅÓ¶"	ô²! ¾Š6ÅÓ„"	ðÂ! õ…¡T¸ì=®"	ÞŠ! ¥‹ÍOôö1‰"	Ò†! ÍŒÙÎâ"	ú®  ¸n­:ç¹¢"	¢ú! ¯°:ç¹Û"	¬ø! Ì“Þ-”Í-‡"	€¦4! Ì‰ÿä–*Á"	ôî5! ýœ¢‡Œ£"	Ô†>  ¨XÌ&Ïû&ˆ"	²Ž1! Ôð ‰´Õ"	è$ä! ƒ’±LÅÄ "	€'š! ï—†.àùÓ"	¨)‚! ¾˜Î.àù¾"	¾)¦! –žÆ’'ö"	¨,¼! Ê™µÆ’'ý"	œ,Ä! ã€Ö;ÜÛ¯"	â!   ²]»Ažë/˜"	Ö/Æ  Á]èAžë/ú"	à/È! ÂùˆÒ¤"	ä*°  èbŽˆÒÊ"	ð*Â  eµIÑÐ«"	€2®  ½y…IÑÐ÷"	ž2Ä  á~·CÑÐà"	ì3Š! œ‡–CÑÐŠ"	î3¦  —s­	ÑÐÚ"	ò5è! š•‹2™Ò>Ø"	Ú7´  ›zæQÑÐ¶"	ð4ú  ßW×VÆ’'™"	Œ6ò  ÷uºU™Ò>Ÿ"	¼7ž  ¬o§H™Ò> "	È<à  Žwª8™Ò>—"	À=Æ! ÖˆåSÚÇ›"	®3‚  ±jó@ÚÇ·"	˜4Ž  Â[½ê½)Ý"	€>¬  Ói¦ê½)ž"	”>¤  §ÒFÕ%•"	Ì>ª  Þ_îKÕ%€"	ô<¤  ‘mŸ£ø
+¥"	º ê'! ‘ë
+£ø
+ô"	®#ê%  ª]¬
+£ø
+ì"	ô"Œ&  Ë\Â
+£ø
+¨"	¸#‚&  ðZ‚Jò3¨"	„)–#!  †ÜBò3¹"	¨,Þ"  ·^ß!Ê¿“"	ê-º5  ¤W³!Ê¿ç"	ú-È5  þf°!Ê¿ã"	ô-Ü5  «hò!Ê¿Ä"	ð-ò5! »‚ƒ!Ê¿š"	î-Š6  ËWü4¹“4È"	þ.Š>  €pÐ4¹“4ø"	Š/ˆ>  ÔcÉ7Õ%ä"	â7   ˜l®,Æ­(ê"	ð3*  íYïDÀÑ$¯"	Ò3Ž+  É}³EÄâ"í"	ì4ø+  ºW¡EÀÑ$Ù"	æ4Ž,! ¶ŽñNÄâ"¬"	ì;Â(  ‚vPÄâ"Ñ"	¬<ö)  ¢t§<îñ#á"	¾=Ö-  ©d´?Áµ+²"	ú2¼1  ‹g¤?Áµ+©"	ú2È1! óš¥Ã»Ç"	¬9¼7! Ý”õÃ»Å"	º9Ð7! °„Æ³Éœ"	–>®6  ÀqÃÈÐ’"	Ø8¼;  Îk¸ÈŸ‘"	‚<¶<  „W¿9¡ŠŒ"	æ=°=  ®xû¡Šþ"	È>Ò=  ÿ{ªØú«"	ŒA˜;

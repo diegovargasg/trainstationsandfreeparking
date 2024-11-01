@@ -1,0 +1,82 @@
+ğNx
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"	
+Gruiten"	
+Schwelm"
+
+Homberge"
+	Ennepetal"
+
+Berghausen"
+
+Engelsburg"
+
+Pohlhausen"
+BÃ¶kenbusch"
+KÃ¶nigsfeld"
+Westerbauer"
+Wimmersberg"
+AdlerbrÃ¼cke"
+Remscheid Hbf"
+Wetter (Ruhr)"
+Frielinghausen"
+Gevelsberg Hbf"
+Gevelsberg West"
+Gevelsberg-Kipp"
+Velbert-Neviges"
+Essen-Kupferdreh"
+Gevelsberg-Knapp"
+Hattingen (Ruhr)"
+Remscheid-Lennep"
+Velbert-Nierenhof"
+Oberbarmen Bahnhof"
+Velbert-Langenberg"
+Wuppertal-Sonnborn"
+Velbert RosenhÃ¼gel"
+Wuppertal-Vohwinkel"
+Wuppertal-Oberbarmen"
+Wuppertal-Unterbarmen"
+Remscheid-LÃ¼ttringhausen"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"access":"yes","amenity":"parking","capacity":"6","fee":"no","park_ride":"yes","parking":"surface"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no"}"…
+‚{"access":"yes","addr:city":"Wetter (Ruhr)","addr:country":"DE","addr:housename":"Parkhaus","addr:housenumber":"21","addr:postcode":"58300","addr:street":"BahnhofstraÃŸe","addr:suburb":"Alt-Wetter","amenity":"parking","building":"parking","building:levels":"3","capacity":"159","capacity:disabled":"2","capacity:women":"yes","covered":"yes","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"multi-storey","parking:condition":"disc","parking:condition:default":"free","parking:condition:maxstay":"2 h","parking:condition:time_interval":"Mo-Fr 08:00-18:00","roof:shape":"flat","smoking":"no","start_date":"2002","wheelchair":"yes"}"‡
+„{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"sett"}"Š
+‡{"access":"yes","amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"
+‹{"access":"yes","amenity":"parking","capacity":"30","fee":"no","layer":"-2","name":"P+R Westbahnhof","park_ride":"yes","parking":"surface"}"
+‹{"access":"yes","amenity":"parking","capacity:disabled":"2","check_date:fee":"2024-05-09","fee":"no","park_ride":"yes","parking":"surface"}"
+Œ{"access":"yes","amenity":"parking","capacity":"12","fee":"no","name":"P&R,Remscheid-LÃ¼ttringhausen","park_ride":"yes","parking":"surface"}"’
+{"access":"yes","amenity":"parking","capacity":"15","capacity:disabled":"1","fee":"no","name":"P+R Kipp","park_ride":"yes","parking":"surface"}"’
+{"access":"yes","addr:city":"Remscheid","addr:country":"DE","addr:housenumber":"20","addr:postcode":"42859","addr:street":"PreÅ¡over StraÃŸe","addr:suburb":"SÃ¼d","amenity":"parking","building":"parking","capacity":"230","fee":"no","maxheight":"2.1","maxweight":"2.5","name":"P+R Hauptbahnhof Remscheid","opening_hours":"24/7","operator":"Stadt Remscheid","park_ride":"yes","parking":"multi-storey"}"˜
+•{"access":"yes","amenity":"parking","capacity":"146","fee":"no","name":"Rittershauser Platz","park_ride":"yes","parking":"surface","supervised":"no"}"›
+˜{"access":"yes","amenity":"parking","capacity":"112","capacity:disabled":"4","fee":"no","name":"P+R Hauptbahnhof","park_ride":"yes","parking":"surface"}"œ
+™{"access":"yes","amenity":"parking","capacity":"215","fee":"no","name":"P&R, Schwelm, BF (Ost)","park_ride":"yes","parking":"surface","wheelchair":"yes"}"
+š{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"2","fee":"no","name":"Bahnhof RosenhÃ¼gel","park_ride":"yes","parking":"surface"}"
+›{"access":"yes","amenity":"parking","capacity":"56","capacity:disabled":"2","fee":"no","name":"P&R,Gevelsberg-Knapp","park_ride":"yes","parking":"surface"}"
+›{"access":"yes","amenity":"parking","capacity":"444","capacity:disabled":"15","fee":"no","maxheight":"2.2","maxstay":"1.5 hours","maxweight":"2","opening_hours":"Mo-Sa 07:00-22:00; PH off","operator":"Kaufland Dienstleistung GmbH & Co. KG","park_ride":"yes","parking":"multi-storey"}" 
+{"access":"yes","amenity":"parking","capacity":"25","capacity:disabled":"2","fee":"no","name":"P&R,Wuppertal-Sonnborn","park_ride":"yes","parking":"surface"}"¥
+¢{"access":"yes","amenity":"parking","capacity":"130","capacity:disabled":"3","fee":"no","level":"1","name":"P&R, Ennepetal","park_ride":"yes","parking":"surface"}"¦
+£{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"3","fee":"no","name":"P&R,Velbert-Langenberg, West","park_ride":"yes","parking":"surface"}"°
+­{"access":"yes","amenity":"parking","capacity:disabled":"yes","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"yes","maxstay":"no","opening_hours":"24/7","operator":"Stadt Essen","orientation":"diagonal","park_ride":"yes","parking":"surface","smoothness":"excellent","surface":"asphalt"}"²
+¯{"access":"yes","amenity":"parking","capacity":"115","capacity:disabled":"2","fee":"no","name":"P&R,Remscheid-Lennep","park_ride":"yes","parking":"surface","wheelchair":"yes"}"²
+¯{"access":"yes","amenity":"parking","capacity":"22","fee":"no","name":"P&R,Velbert-Nierenhof","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"unpaved"}"²
+¯{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"¼
+¹{"access":"yes","amenity":"parking","capacity":"37","capacity:disabled":"3","fee":"no","name":"P&R,Velbert-Langenberg, Ost","park_ride":"yes","parking":"surface","wheelchair":"limited"}"¾
+»{"access":"yes","amenity":"parking","capacity":"231","capacity:disabled":"1","fee":"no","name":"P&R,Wuppertal-Unterbarmen","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Ğ
+Í{"access":"yes","amenity":"parking","fee":"no","object:city":"Wuppertal","object:street":"WaldeckstraÃŸe","orientation":"diagonal","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"Ô
+Ñ{"access":"yes","amenity":"parking","capacity":"70","capacity:disabled":"5","fee":"no","lastcheck":"2018-03-06","lit":"yes","name":"Bahnhof RosenhÃ¼gel","park_ride":"yes","parking":"surface","supervised":"no"}"Ö
+Ó{"access":"customers","amenity":"parking","capacity":"108","capacity:disabled":"5","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"Ù
+Ö{"access":"yes","amenity":"parking","capacity":"163","capacity:disabled":"4","fee":"no","name":"P&R,Wetter (Ruhr)","park_ride":"yes","parking":"surface","parking:condition":"disc","parking:condition:default":"free","parking:condition:maxstay":"2 h","parking:condition:time_interval":"Mo-Fr 08:00-18:00","start_date":"2012","wheelchair":"yes"}"ã
+à{"access":"yes","amenity":"parking","capacity":"95","fee":"no","lastcheck":"2016-01-15","maxstay":"2 hours","name":"Parkplatz Auf der Beek","park_ride":"yes","parking":"surface","parking:condition":"disc","wheelchair":"yes"}"÷
+ô{"access":"yes","amenity":"parking","bridge":"yes","fee":"no","layer":"1","level":"0","object:city":"Wuppertal","object:street":"WaldeckstraÃŸe","orientation":"diagonal","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"ú
+÷{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","lit":"yes","name":"P+R Bahnhof Hattingen","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"	|à˜l‹?@"	÷qXO@"	&$rSs@"	B.3fD@"	
+6ƒ¿x±@"	Y{éÛE@"	·ĞâEK@"	m¤òEª@"	!Ó#àH³@"	#e– Oª@"	#–¹V‡;A@"	&®¦DóÁ@"	,¬
+Ò•5·@"	6 —ùe4@"	=FNu,©@"	?c¹ûô©@"	Al*ŸõaP@"	H–òK`ÕF@"	J³Ü*¶f@"	KÏãEA@"	Lpû®´—@"	M]¶+HóP@"	NØåö¤u°@"	RfÂÎÀ»@"	SSÓ–5F@"	U2ïsÙ[–@"	U¢dp¶Q@"	YD1ÈU@"	b1²ŞÊ©@"	dğ³a¨{@"	drÎµiQ@"	mÚ•3=M@"	pêIäÛ¼@"	r .‘ï–@"	wp‡eE@"	|#2ÚcP@"	} y‡<f±@"	Í`‡™±@"	‚üPj$±@"	ŠoÎŞl@"	ŠÁ‰cŸ¯@"	‘„A%º²»@"	—„J9sF@"	˜Y<hc¯f@"	›Óì\f@"	£Ú…÷á.»@"	« QPâ¨g@"	«¾ËÀßãJ@"	­‚|âÙZr@"	®i(g³@"	±9àÃè_£@"	³êVâÂk@"	³»yøD@"	·åQ©ê7W@"	¹óSÚî[3@"	½}¥“Õ²»@"	½ç©4`à¤@"	Â­
+:Ş¿@"	Ç[óƒ¼¬@"	È…]&i@"	Èßí…<½@"	ÍI Ôì;°@"	Ğûšõ»@"	Òå-n·±@"	İ¬¤fŒJ@"	àşOÅYÕj@"	áöÑuD@"	á²&Ëå¼@"	â"Ô–Ñb@"	ãûšEîF@"	ä3|µa´©@"	çû-íd@"	í¿CÉ
+´@"	õ`CT.¢³@"	ø± …¥@"	ıGø+½@" Ãí2" „ç" „ğúY" ï½J" »„>" ‘ØØà" ‘ú¹O" ’}" ’èÖ)" ”ï½J" –ï½J" ˜Ş" ™éĞ" ¦¢"  ëQ" £Ğ‰Û" ¨¸öÒ" ®œ°?" ´’" ´À‹Œ" ´Õù" ¶„•" ¶òƒE" ºœ±£" ½ï" ¾¡" À¦©" Â©Ø@" Âé×" ÃÎĞ" ÄÎĞ" Å¼·" Åïõã" Æ " ÌóŒp" Î¡™|" ÏÒæO" Ğ††9" Ò”" Ô¤¼," ÔîÕ'" ÖÂËà" ×ÂËà" ØÂËà" Ü£ÊĞ" İ£ÊĞ" á¹Ë" åÆº" åèÛ(" é¿‚" ïÉ" ñ¡±†" ò§Ù" ô‘²¬" ÷şœÂ" ú†" ûÙüD" ş–µ‡	 —8BÅb"	 A ‘AGÅ~"	¶I ˜"HÅ"	¸? ¥(lÅ…"	®; ®5qÅJ"	ü µ=RÅs"	ˆ	¨ ¨?‚¦¡
+t"	Ü
+œ š<U¦¡
+^"	äæ £/e¦¡
+I"	ğ† ©7xÅK"	âä ¬4„Åc"	Âî «9LÅV"	Øô œ2wÀ¼N"	ÒŒ. Ã!`¯¾ f"	˜Š0 ·%S¯¾ "	 ˆ0 ¹&Z¯¾ F"	 0 ¸%E¯¾ g"	 Œ0 °#v´ÁM"	äÊ& Â:]À¼{"	ªŒ) ¶.u|"	Ì/ê ¤'‡ Çh"	Ä3ü ²*d Ç"	â5„ ” _ Çj"	ö6Ş Æ-W ÇX"	¬8à ¢0C•±	["	š?ˆ ³3† Çn"	ò8ô ­,Ty"	 # $ º@i€"	¬#¼$ ;pk"	š#Â$ Ÿ ƒY"	’#Ú$ »;Do"	Ê#¶$ –)O´ÁP"	Æ&Æ5 ¿6}™ÄŒ"	¼(= ½ r™Äz"	¾(¼= >m•±	Š"	¬@  ’$\•±	‹"	¾@À “+a§›ˆ"	èà@ ª1‰§›Q"	â@

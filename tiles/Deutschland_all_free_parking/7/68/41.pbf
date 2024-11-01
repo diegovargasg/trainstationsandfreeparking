@@ -1,0 +1,256 @@
+©Çx
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Buch"
+Silz"
+Vilz"
+Eiche"
+Slate"
+Sydow"
+Bernau"
+Breese"
+HÃ¶now"
+Kessin"
+Russow"	
+Basdorf"	
+Breddin"	
+BÃ¼tzer"	
+Koserow"	
+Lehnitz"	
+Marzahn"	
+Parchim"	
+Schwaan"	
+Seefeld"	
+Warnitz"
+
+Biesdorf"
+
+Blumberg"
+
+Ducherow"
+
+Ellingen"
+
+Gantikow"
+
+GÃ¶ttlin"
+
+Holldorf"
+
+Neubukow"
+
+Prenzlau"
+
+Rathenow"
+
+Rehfelde"
+
+Wuhletal"
+	Borgsdorf"
+	Falkensee"
+	Hermsdorf"
+	Karlsburg"
+	Kaulsdorf"
+	KlarahÃ¶h"
+	Kronskamp"
+	Mahlsdorf"
+	Marquardt"
+	Seegefeld"
+	Seehausen"
+	Tempelhof"
+	Vehlefanz"
+	Walsleben"
+	Wegendorf"
+	Westkreuz"
+
+Biesenthal"
+
+Brieselang"
+
+Eggersdorf"
+
+Kratzeburg"
+
+KÃ¶lpinsee"
+
+Lindenberg"
+
+Neuenhagen"
+
+Papenberge"
+
+Strausberg"
+
+Wartenberg"
+
+Werneuchen"
+
+Wustermark"
+
+ZÃ¼hlsdorf"
+Ahrensfelde"
+BirkenhÃ¶he"
+Birkenstein"
+Blankenburg"
+Bollensdorf"
+Bundesplatz"
+Heinersdorf"
+Klosterdorf"
+Lichtenberg"
+MÃ¼nchehofe"
+Oranienburg"
+Petershagen"
+Pieverstorf"
+Priesterweg"
+RÃ¶ntgental"
+Schwanebeck"
+SchÃ¶nwalde"
+SteinfÃ¶rde"
+Tessin West"
+Wittenberge"
+Bad Wilsnack"
+Fichtengrund"
+GroÃŸ LÃ¼ben"
+GroÃŸziethen"
+MÃ¶nchmÃ¼hle"
+Neu Wiendorf"
+SchÃ¶nflieÃŸ"
+Waldsiedlung"
+Biesdorf-SÃ¼d"
+Burg Stargard"
+Klein Ziethen"
+Laage (Meckl)"
+Premnitz-Nord"
+SchÃ¶nerlinde"
+Diedrichshagen"
+Seefeld (Mark)"
+Friedrichshagen"
+Strausberg Nord"
+Waldsieversdorf"
+Breitenbachplatz"
+Nieder Neuendorf"
+Petershagen Nord"
+Dallgow-DÃ¶beritz"
+Rostock-Kassebohm"
+Rostock-Marienehe"
+WarnemÃ¼nde Werft"
+Bernau-Friedenstal"
+Heidelberger Platz"
+MÃ¼ncheberg (Mark)"
+Pankow-Heinersdorf"
+ScharnweberstraÃŸe"
+Blumberg (b Berlin)"
+Elsterwerdaer Platz"
+Vorweden-MÃ¶nkweden"
+Warnitz (Uckermark)"
+Dahlwitz-Hoppegarten"
+FÃ¼rstenberg (Havel)"
+Kyritz Am BÃ¼rgerpark"
+Seehausen (Uckermark)"
+Zepernick (bei Bernau)"
+Berlin-HohenschÃ¶nhausen"
+Hennigsdorf (bei Berlin)"
+MÃ¼hlenbeck-MÃ¶nchmÃ¼hle"
+Bahnhof Inselstadt Malchow"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"[
+Y{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
+[{"amenity":"parking","fee":"no","name":"Am Sportplatz","park_ride":"yes","supervised":"no"}"]
+[{"amenity":"parking","fee":"no","park_ride":"yes","supervised":"no","wheelchair":"limited"}"e
+c{"amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"street_side"}"f
+d{"access":"yes","amenity":"parking","capacity":"5","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"20","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"30","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"55","fee":"no","park_ride":"yes","parking":"surface"}"h
+f{"access":"yes","amenity":"parking","capacity":"415","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"no"}"i
+g{"amenity":"parking","capacity":"8","fee":"no","park_ride":"yes","parking":"surface","surface":"paved"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"o
+m{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"p
+n{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"p
+n{"access":"permissive","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"r
+p{"access":"yes","amenity":"parking","fee":"no","name":"Bahnhof Marquardt","park_ride":"yes","parking":"surface"}"u
+s{"access":"yes","amenity":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"v
+t{"amenity":"parking","capacity:disabled":"yes","fee":"no","maxstay":"6 hours","park_ride":"yes","parking":"surface"}"{
+y{"access":"yes","amenity":"parking","capacity":"200","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","capacity":"340","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"|
+z{"access":"yes","amenity":"parking","capacity":"40","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete"}"|
+z{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"surface","surface":"cobblestone"}"|
+z{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"diagonal"}"
+}{"access":"yes","amenity":"parking","capacity":"59","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"82","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete","wheelchair":"yes"}"
+}{"amenity":"parking","building":"parking","fee":"no","hgv":"no","park_ride":"yes","parking":"multi-storey","supervised":"no"}"€
+~{"access":"yes","amenity":"parking","capacity":"127","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","covered":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"€
+~{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"limited"}"
+{"access":"yes","amenity":"parking","capacity":"53","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular"}"ƒ
+€{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ƒ
+€{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ƒ
+€{"access":"yes","amenity":"parking","fee":"no","goods":"no","hgv":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"…
+‚{"access":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","name":"P+R Parchim","park_ride":"yes","parking":"surface"}"‡
+„{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"concrete:plates","wheelchair":"yes"}"ˆ
+…{"access":"yes","amenity":"parking","fee":"no","level":"0","maxheight":"3.4","maxweight":"3.5","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","capacity":"4","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","capacity":"5","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"‰
+†{"access":"yes","amenity":"parking","fee":"no","operator":"Stad Bad Wilsnack","park_ride":"yes","parking":"surface","supervised":"no"}"‰
+†{"amenity":"parking","capacity":"184","capacity:disabled":"10","capacity:parent":"6","fee":"no","park_ride":"yes","parking":"surface"}"Š
+‡{"access":"yes","amenity":"parking","fee":"no","operator":"Stadt Bad Wilsnack","park_ride":"yes","parking":"surface","supervised":"no"}"‹
+ˆ{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","name":"Bahnhofsparkplatz","park_ride":"yes","parking":"surface"}"
+Š{"access":"yes","amenity":"parking","capacity":"138","fee":"no","name":"P+R Bahnhof (Ausgang Nord)","park_ride":"yes","parking":"surface"}"
+‹{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"24","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"“
+{"access":"yes","amenity":"parking","capacity":"78","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"”
+‘{"access":"yes","amenity":"parking","capacity":"116","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"•
+’{"access":"yes","amenity":"parking","capacity":"50","fee":"no","park_ride":"yes","parking":"surface","supervised":"yes","surface":"paving_stones"}"–
+“{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz Bahnhof Friedrichshagen","park_ride":"yes","parking":"surface","wheelchair":"yes"}"˜
+•{"access":"yes","amenity":"parking","capacity":"10","fee":"no","park_ride":"yes","parking":"surface","parking:lane:both":"surface","surface":"paved"}"™
+–{"access":"yes","amenity":"parking","capacity":"9","fee":"no","operator":"Stadt Bad Wilsnack","park_ride":"yes","parking":"surface","supervised":"no"}"™
+–{"access":"yes","amenity":"parking","covered":"no","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"š
+—{"access":"yes","amenity":"parking","capacity":"12","fee":"no","operator":"Stadt Bad Wilsnack","park_ride":"yes","parking":"surface","supervised":"no"}"š
+—{"access":"yes","amenity":"parking","capacity":"34","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"›
+˜{"access":"yes","amenity":"parking","capacity":"6","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no"}"›
+˜{"amenity":"parking","capacity":"32","capacity:disabled":"1","fee":"no","maxstay:conditional":"4 h @ 08:00-20:00","park_ride":"yes","parking":"surface"}"œ
+™{"access":"yes","amenity":"parking","area":"yes","capacity":"12","capacity:disabled":"1","covered":"no","fee":"no","park_ride":"yes","parking":"surface"}"œ
+™{"access":"yes","amenity":"parking","capacity":"10","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no"}"
+š{"access":"yes","amenity":"parking","capacity":"150","capacity:disabled":"yes","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"
+š{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"
+›{"access":"yes","amenity":"parking","capacity":"200","fee":"no","operator:type":"public","park_ride":"yes","parking":"surface","surface":"concrete:plates"}"
+›{"access":"yes","amenity":"parking","fee":"no","name":"P+R Berlin-Lichtenberg","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Ÿ
+œ{"access":"yes","amenity":"parking","capacity":"27","capacity:disabled":"1","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¢
+Ÿ{"access":"yes","amenity":"parking","capacity:charging":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¥
+¢{"access":"yes","amenity":"parking","capacity":"90","fee":"no","name":"Park and Ride","operator":"Stadt FÃ¼rstenberg Havel","park_ride":"yes","parking":"surface"}"¨
+¥{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","covered":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¨
+¥{"access":"yes","amenity":"parking","capacity":"3","capacity:disabled":"3","covered":"no","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"©
+¦{"access":"customers","amenity":"parking","fee":"no","name":"Park+Ride Am BÃ¼rgerpark","opening_hours":"24/7","park_ride":"yes","parking":"surface","supervised":"no"}"©
+¦{"access":"yes","amenity":"parking","capacity":"1","covered":"no","fee":"no","note":"for Motorcycles","park_ride":"yes","parking":"surface","surface":"paving_stones"}"«
+¨{"access":"yes","amenity":"parking","capacity":"4","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","surface":"paving_stones"}"¬
+©{"access":"yes","amenity":"parking","capacity:disabled":"yes","fee":"no","lit":"yes","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paving_stones"}"¬
+©{"access":"yes","amenity":"parking","fee":"no","name":"Parkplatz S-Bahnhof Zepernick","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"­
+ª{"access":"yes","amenity":"parking","capacity":"75","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface"}"®
+«{"access":"yes","amenity":"parking","capacity":"30","capacity:disabled":"5","fee":"no","name":"Bahnhof Vehlefanz","park_ride":"yes","parking":"surface","wheelchair":"yes"}"¯
+¬{"access":"yes","amenity":"parking","fee":"no","name":"P&R Bahnhof Blumberg","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"°
+­{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"2","fee":"no","name":"Am Bahnhof Malchow","park_ride":"yes","parking":"surface","surface":"asphalt"}"°
+­{"access":"yes","amenity":"parking","fee":"no","lit":"yes","orientation":"perpendicular","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paving_stones"}"²
+¯{"access":"yes","amenity":"parking","capacity":"8","capacity:disabled":"3","fee":"no","operator:type":"public","park_ride":"yes","parking":"surface","surface":"paving_stones"}"µ
+²{"access":"yes","amenity":"parking","capacity:disabled":"4","capacity:parent":"0","capacity:women":"0","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¶
+³{"access":"yes","amenity":"parking","capacity":"18","covered":"no","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones","wheelchair":"yes"}"º
+·{"access":"yes","amenity":"parking","capacity:disabled":"no","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side","supervised":"no","surface":"concrete"}"À
+½{"access":"yes","amenity":"parking","capacity":"56","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"Ã
+À{"access":"yes","amenity":"parking","covered":"no","fee":"no","fixme":"Form passt nicht Anzahl ParkplÃ¤tze passt nicht Lampen fehlen","park_ride":"yes","parking":"surface","surface":"asphalt"}"Ä
+Á{"access":"yes","amenity":"parking","capacity":"11","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"street_side","parking:orientation":"perpendicular","surface":"paving_stones"}"Å
+Â{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"ì
+é{"access":"yes","amenity":"parking","capacity":"11","fee":"no","orientation":"diagonal","park_ride":"yes","parking":"street_side","parking:street_side:of":"service","parking:street_side:of:name":"OberfeldstraÃŸe","surface":"asphalt"}"	gvFS­@"	/K&[¨@"	jÇìµÍÃ@"	Zx©&s@"	¡gŠ†?”@"	1<c@"	`Uğ‚S@"	|%ˆG>Q@"		lú¼k@"	[ —–ĞF@"	qiP¶@"	j¢éxd”@"	
+76/fY@"	
+M¸bB@"	
+WtzX`J@"	
+Ò…û|N@"	è$<U®@"	Y€,Ş¯V@"	)Z¢~T@"	†²sÛ´d@"	‡“¯’(@"	ø¦ãFa@"	rWş†È‹@"	¯Y§ÛH@"	s_90D–@"	Ûàßå³d@"	/?£œ„@"	İ¢¼Ì^@"	6y@Ş¸“@"	ÂH£KR@"	Lúòî€@"	A×|$ğŒ@"	*¥jm”@"	ª÷lÛN@"	 Y¼Åd@"	 s‚é/N@"	 ›·Ê
+@"	"U±mƒ@"	"½cÿ¢¤O@"	$p±óîŸI@"	$›f®›^@"	$äêÀ^_@"	%,…RÂS@"	%²C)Ãœ_@"	'şEÈº@"	(ÅßšÓ¥m@"	(åóRUH@"	*7 Ù¨id@"	,NÆ˜ê­@"	,ˆ‘Éú·T@"	-Óp‚F@"	.-9å€@"	.ùÏKawd@"	2]@"	23Ûc¨F@"	2´±+L5B@"	3İwq§@"	4OòŞ3”@"	5„ÆpòÂ”@"	5Å¼p ^@"	6'·ñf@"	6vÎ±”@"	8ÃcÊ!®©@"	9ClÎøë”@"	9bëà)f@"	9ñ–i‚ˆª@"	:Á·â0¥@"	;JÉU˜0±@"	=ºº»şd@"	>£º*¦ŒM@"	@%|äWe@"	A¦O‘Q¶a@"	AÍIP”¬@"	D²Û‘\f”@"	Fu÷`ò¤=@"	HnÅ®ª”q@"	J,È¼­ƒ@"	J{`pYIf@"	LåÈeÀmB@"	M/ŠW‰“@"	MU1}=‘_@"	O[ñq~bU@"	Pâcğ¶@"	Q2™~¥Q@"	S@@e¡?„@"	SÅ[MX @"	UÇß‹¨@"	X,e›f@"	YXvD1ª¥@"	ZcŒİ×`@"	Z,J	1º¢@"	ZÙíFc2@"	\¹º´? @"	^)^(y.ª@"	_P6Æµ<@"	_ˆú\İ”@"	`F/­@"	`ÆÁïJH@"	au›\Ï@G@"	a•|ª´ƒ‰@"	aÂè’%íV@"	b9´LHb@"	b<±ğiBS@"	bğ³´—1Ÿ@"	cûbVÁ_@"	dÔQ­!<@"	dÜ=çà´@"	fn-ƒ]iX@"	f¨ãIK§@"	gİ­‰4k@"	gñtl¸K@"	h”Õ«2L@"	i(¼â©P@"	n$–>°@"	n–^eÉÉŸ@"	nİËü¡gn@"	o?f¥š»”@"	ohÿ­Å@"	p"ÒXÉ#—@"	q­	uâ]@"	qp«µêÀ“@"	rÆX‹e@"	t¯æ·$ò”@"	u/0{_v@"	v„R²õ@"	vººãÀß²@"	wÄ @"	xIç¯mK@"	yŒl0èµY@"	zğ×LômP@"	|~ ë‘¬”@"	|î-GJ@"	µ •@"	vŞJ®ë]@"	‚VN¸­@"	‚ezš»Gj@"	…Ë‡Š¦@"	…!§YX@"	†ÆìCH]@"	ˆù/N[ßf@"	ŠB@^ŠI@"	ŠİG#ZÁ¥@"	‹Ñ‰¦T@"	Œw›)•]c@"	´T5*#u@"	—Ğ@W­@"	®2È ‘@"	‘Jå]áJa@"	‘K—;XR@"	‘ı6›ı”@"	“.7.",@"	“®SìF@"	“Ï_:œnR@"	“æf½w­@"	”*ÙmìÔ”@"	–Q¥»¡A@"	–¥©¸¶Q@"	˜>·£Ú]h@"	˜AV{Ğ”@"	˜.zé±@"	™C|µG­@"	ş˜Ü%\@"	+½ÿ«q@"	‚ëM €`@"	¶ñ†ŒÎŒ@"	Ÿ]KxÖU@"	Ÿˆ´Ta@"	ŸÓ‚}ª½“@"	 w\’¥`@"	 8W’Â”¦@"	¢HZìÃ“e@"	¢oEa4to@"	£_D®Ø@"	¤XK¢æc@"	¤mS²³§@"	¥óõe#1J@"	¦ü·ö…@"	§°j­S@"	«‡‘Ÿá‘@"	«©›&ƒ‚@"	¬GP‰!H@"	¬n…Îôá”@"	¬Š¯-À@"	­,?™vŸ©@"	­0éÛº¦b@"	®Ê9a³­@"	°Êu$êf@"	±fhE\@"	´òŸl`@"	´lâšº8L@"	´ò°l_ms@"	µ‰´´?ÈP@"	µ³‘Šu)]@"	µô‡}“vN@"	·vU-·@"	·õvÉÎª@"	¸U>
+Ş±@"	¸ÀN¤‚®@"	¸@rã¶r@"	»+Ã8D@"	¼cÁR²@"	¼AHpŒ¦@"	¼‹€!ûCI@"	À^Üi÷Ú¦@"	ÂÚ‚°çz®@"	Äjg‰Ò¡Z@"	ÄÏÑv¸Zº@"	ÇQ‚¦_À@"	É5˜}1:°@"	Ê×†_¢¦@"	ÊŞ	îúÁ@"	Ë­èô‹a@"	Ë¼	0X¶@"	ÌÌˆ:]@"	ÎŸ‹ÃÕA@"	ÑÓ­4`@"	ÒxXf«ı9@"	Ò¾ËÃ«@"	Ôkäîî‡¦@"	ÕFÓ4½İE@"	Öxq5Ÿãs@"	Öí~Wpd@"	×l|(F¨@"	ØIa_XÒ@"	Ø­1ìÍ]`@"	Øß=dã©c@"	Ù73$Ğy@"	ÚäÀ @­@"	ÚI!÷@"	Úb¼}±@"	ÚëØóPJZ@"	ÛJÅ™ıB@"	ÛËø¶ke<@"	ÜšÎ?³¬@"	ŞÏØØèz@"	ß3>ç&´{@"	ß–ß(áJ@"	àUœIı~@"	áBby³+”@"	á°~£­“@"	áÿÁ%9À@"	âjb„ôm½@"	â§Ñ‘‡­@"	âÅW‡ˆÍ”@"	ã"Ôqõñ“@"	äÀK€ç“@"	äù&†1RC@"	åc}#_>À@"	å–#Š/3b@"	åØ(æ=Ö‹@"	æíƒ4SC@"	æÍ÷Väc¡@"	ç@°t{”Ä@"	ç†úíŸ@"	çÊ¿_¯‹@"	èjNp;@"	é·ğcad@"	éÄ’½Z U@"	ë˜Ñÿ„Mg@"	ëšõ@@"	íTªˆ?}@"	íVwL?n@"	ívÖ¬ı¯@"	î²jn5‹l@"	ï€³×•{@"	ğ[KÙD@"	ğé®>¦3­@"	ñkvIäxr@"	ñpÆÈ•µ@"	ñîåƒ	Y±@"	ò|û¡Z”@"	ôLj4´x®@"	ôZ=ø=U@"	õÖE¬MwÁ@"	÷„¬Än]@"	÷ĞÃT,¶†@"	øX=ĞU@"	øj¤¸{Ì“@"	ù™•	.Z@"	ú¢~İG M@"	ú¨ÀpØ£’@"	ü`ø˜°”@"	ı’ÃÈ®B@"	ş?V …[@"	şlIC/c|@"	ş“­Ä«@G@"	ÿï¦U{6@"	ÿƒ$Át\@" "" ˆı" ‚" ‚õ¹r" ƒQ" ƒõš[" „÷i" „ƒÅĞ" „ ¯]" ‡ˆ" ‡¦‚€" ‡óàq" ˆ˜Ÿ," ˆÌÕ," ŠU" Š†" ŠºĞÂ" ŠÃş" ŠÉ»r" ŒY" Œ¤’—" Œêƒ1" Ğ¶L" £÷¬" ¬í
+" ß³d" " Ïªø" ı©R" ‘ÿ" ’‚¶Ô" ’ğ" ’œ" ’¥³" “ç" ”e" ”¥³" ”Ìßè" ”ô¹r" •ŸÛ" •÷Ëã" –" –¡¿r" –Ë" –ÔÃ®" –ó€X" —¢" —×²Œ" —ëüP" —ú" ˜–Æ^" ˜·³¯" ˜å¼" ˜óˆ®" ™…" ™“ş" ™¬ç˜" ™Ö»" š‹İ" š”µ¹" š¬ç˜" ›#" œ””†" ””†" Ş¾r" Ìš`" Ÿ?"  ‰U" ¡»˜{" ¢I" £‹àL" £×ªö" ¥°ê" ¦ƒ¼r" ¦³Ø" ¦ËĞË!" § ¶" §Êˆ" ¨q" ¨­" ªÆÓR" ªéºr" «¥q" «‹ô®" ¬Ç¢œ" ­ª‹´" ®„àÓ" ®‹Ğ&" ®±¨Œ" ®íõ" ¯ÅĞ" ¯¿6" °Åªé" °ÖàÅ" ±Ù‹" ±½‹°" ±ãÍ" ±ê½r" ²Ç×q" ³`" ³¥¢" ³¹—A" ³÷Ü²" ³ÿÅ•" ´W" ´]" ´j" ´¯¾r" µ—‰Ú" ¶=" ·ª‚" ·ûåC" ¸ªú" ¸øà" ¹F" ¹j" ¹²¦" ºJ" ºîé" »â-" ¼±½r" ¼Î¬ÿ" ½t" ½Œ©!" ¾‘Õ" ¾–Ù" ¿Z" ¿¤ºr" À…“" ÀÍç*" Âã»r" Ã²µ’" ÄÖÊw" Å7" Åˆí¥" Å˜" ÆÚÇ}" Çœ" ÇÅ¾r" Çì¿r" ÈH" Èi" Èİ€z" ÈîŸ" É¶¾r" Ëš" ËòÃ‹" Ëø¹•" Ìš" Ì¼ßu" ÌÅ”" Í\" ÍÅñ." Îƒ÷¿" Î†‹°" Ïé¡6" Ğ7" Ğ¥Ë„" ĞåŠ°" Ñ®Ú€" Ñà" Òµ¬ä" Ó¬úy" Óúîy" Ôˆ¢" Ô¢ƒ2" Ôõà”" Õõà”" Öõà”" ×`" ×õà”" Ø®­" ØÈ¨Ş" Øô¼r" Øõà”" ÙŒÓü" Ùô¤î" Ùõà”" Úã" Úô¤î" Úõà”" Úı…‹" Ûï»r" Ûõà”" Ü " ÜÜı–" Üõà”" İÌÿˆ" İñßØ"" İõà”" Ş¸³ê" Şá¾r" Şñ‘ø" Şõà”" ß:" ß…ù“" ß¸³ê" ßõà”" àX" àÔÄĞ" àæœz" àõà”" á/" á¬" á¼¤" áÆØÚ" áî©" áõà”" â¿¯ã)" âï½r" âõà”" âöÊ" ãõà”" ä¡ÒÔ" ä¬" ä¸†" äÅ" äõà”" å¬Ÿ," åõà”" æˆ¡•" æõà”" ç" ç°çn" è^" èx" èõà”" éÙíS" éõà”" ê‚¾r" êÑñ" êë¿r" êõà”" ëÑñ" ëİ¿r" ëõà”" ìõÙ" ìõà”" í " í¦ßÍ" î“%" ï¢¾r" ğ¥" ñĞ" ò]" òÒ" òş²"" óŠ¢•" óÍºr" ô¥ÊX" ô¿ô" õ/" õÃ€«" ö…" ÷Ç" ÷İ¬	" øÌšŠ" øæ‘x" ù›û" úx" ú®" ûÍØ•" ûÑ½r" ûÚâV" ü¥ÊX" ıÊ)" ı¡ß¬" ş‚  ‘¼ÚkÅ—`Ü"	€!  ~¢ÿ
+á"	à	Œ! ¾¦ä±ÎÛ"	š! ö¤ƒjÉs³"	ò‚! –Ëşiî†	Â"	âœ  €ÜÑòWó"	ŞØ  Ñ~½Pş‰£"	”ş! ø‚È]›°'µ"	ü´	! †Ğ¶}ï‹"	Ü! ë‹…Q‰óÿ"	Ò¼,! ¾¹äRõÿT‡"	òˆ.! ™·¹RõÿTØ"	òˆ.! ¿«ìRõÿTÙ"	öŒ.! ¹«›RõÿT·"	öŒ.! •«àRõÿT°"	øŒ.! Ú­æRõÿTÍ"	ô”.!  ÈŒw¦ê§"	úº.!  Œê¸ˆÛ"	”ğ0! Î¯ãÊâŸ"	ŠÒ;! ş¶Š^’ìÖ"	Ò‚>! á…ñ4íõJ“"	Â&¦  Â~Ş[Çè"	Ş.Æ  ~œ$åâ$í"	Ø5€! Å˜õ½ú§"	È>Ä  ¶~ø5„š5†"	Œ?ú  Æ~©5„š5Î"	Œ?ú! ‚ûüñ"	ş9º! ÕÁûüÿ"	€:º! Í¥.ˆå.º"	Ä Ê.! ƒÅävÛ…Oœ"	‚+º%! êƒ¸<í<‹"	°&¶=! ˜ƒ¼<í<¯"	°&¶=! Õ ï<í<€"	¶&¶=! ÖŠı<í<"	¾&¶=! ‡Šˆ<í<"	À&¸=! ÈÔ2•Û2õ"	â'¢<  ç~’2•Û2î"	ì'¢<! ¼Î±-ıÈ\«"	¶*‚7! ñ–™H¬ôSÀ"	Â-ú5! ¯Íñ›£!"	è-¢6! ÒŒhÌh¡"	˜)Ş=! ´±à"Ìh"	î)š=! “²°"Ìh¦"	ô)”=! Ë¬÷*ÌhÌ"	Â*°=! Ó”³{é÷f¸"	À,”:! ÒÓ–#ùàX£"	è.ö:  ß~şp©·8Ò"	ô.ê<  ğ~ò0‚ÙYĞ"	¢.¨?! Œ‡ÜŒ¶ô"	Â;® ! û´†Œ¶ë"	Æ;´   Â~óxÓ‹+¾"	ö;”$! ®½çtùØë"	ä;Ê%! Ğ½ètùØÖ"	ä;Ì%! ™ÔÑ=èó="	ş0Ğ6  ~âÀ±×"	Ú1š7! ¦®íÀ±Å"	Ú1 7  ª~•1¤Ã±"	7è5! î×í|ÜVÆ"	Ò0Ì9! Ô™‚N¤ºNß"	Ò1Ğ8! ï¢ÂN¤ºN÷"	Ô1Ğ8  Ç~ N¤ºNã"	Ö1Ò8! é†ö_ã_ô"	Ê1Ö9! ¿¾ÇA—ş6¯"	ò1ú;! ×»‘A—ş6å"	ò1ú;! °€Ÿy¥M "	ö3¬9! ­ÌÃy¥Mû"	ö3´9! ŸÇ˜y¥M‹"	ü3´9! «Æ‰y¥Må"	ü3²9! ®Éy¥M»"	ü3²9! œŸšy¥M¾"	ş3²9  “~ğL¥M™"	Ä3à9! ÏÒÊ ã_´"	€3 :! µÁ— ¥MÄ"	„3¨:! ¢‰âo—ş6‡"	Î1®<! ·Õ„:­´&µ"	¦3Ê<! ³ÕÁ:­´&¤"	¦3Ì<! ôÕë:­´&„"	¨3Î<! ƒ„–:­´&ã"	ª3Ğ<! ıºç:­´&¹"	¢3Ô<! €£øz­´&’"	º3ò<! üÂŠF‡ıË"	3ú>! ¸Èy¥Mê"	†4ª9  É~¶l„»?è"	Ú4„9! İÉ„»?¬"	¤5â8! ÚÏ¿qÙ÷ù"	Ü5¸;! ¹ØòaŞ»Ş"	š7ö:! ºÊéaŞ»¦"	œ7ô:! ä§î>‡ıú"	à4Ò<! ë§Ã>‡ı¿"	Ø4Ú<! á§â>‡ıá"	Ü4Ú<! ú°ù‡ı”"	”4Ú=! ĞÚ¼‡ı"	¸4î>! ”—¥‡ı­"	¼4ì>! à³» €¡ç"	ü4ğ>  œ~ÚZ‡ıÌ"	¤4°?! Á•—r‡ı©"	Î4œ?! ŞÃ›%€¡Å"	–5ò>! òÖô(ÁÜuÍ"	â5î>! ûÙ·(ÁÜuì"	æ5€?! ìœï€¡ú"	š6ô=! „“Ë€¡Ù"	œ6ò=! «À€@ÁÜuİ"	Ì6à>! š¿®7³ªBı"	ä7Ì>! ’ÑÒ;§/á"	È8:! ¡ªøgŠ…Iª"	Ü9¦>! ¢ª¨gŠ…Iğ"	Ü9¦>! Øª²gŠ…IÓ"	Ü9¦>! ÖªægŠ…I÷"	Ü9¦>! £ªgŠ…Iº"	Ü9¦>! ÔªİgŠ…IÊ"	Ü9¨>! èª¡gŠ…IÏ"	Ş9¦>! ¥ª“gŠ…Iß"	Ş9¦>! İªàgŠ…I”"	Ş9¦>! æªêgŠ…IÉ"	Ş9¦>! Ïª…gŠ…IĞ"	Ş9¨>! ÍªˆgŠ…Iù"	Ş9¨>! ßªîgŠ…Iû"	Ş9¦>! ãªgŠ…I¤"	Ş9¦>! ƒ¢gŠ…Iæ"	Ş9¦>! ÊªÓgŠ…Ié"	Ş9¨>! ©©úgŠ…Iõ"	à9¦>! ²©ågŠ…IÎ"	à9¦>! ¬©ÛgŠ…Iß"	à9¦>! ¯©¨gŠ…Iğ"	à9¦>! ¸©ƒgŠ…I•"	à9¦>! ¼©«gŠ…IÏ"	à9¨>! Ä©²gŠ…I˜"	à9¨>! µ©ügŠ…IÕ"	à9¦>! À©gŠ…Iš"	à9¨>! …©ögŠ…I"	à9¨>! Ã›égŠ…IÑ"	ä9¢>! ˆï9ø²3ó"	â:’>! –¡9ø²3‚"	ä:’>! §ÄÕc½ÌE‰"	¾<ü;! ”ŞğÄÔ"	æ<¤>! ¨ŠÆnäædÇ"	ò@¶>! ’ü)öË)½"	š'ô@! ç¥òmÆ×D×"	ô.ˆ@! üÀeÆ×Dì"	ò.Î@! Š¨ÄCÆ×Dİ"	ª/˜@! †‘öKÆ×D‘"	ò/ğ@! Ÿ‘´KÆ×Dª"	ô/ò@! ‚š¬,ÿ¨U­"	È0À@! ñµ®b˜‘GØ"	Š6ö@

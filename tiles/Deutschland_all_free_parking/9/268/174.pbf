@@ -1,0 +1,92 @@
+ñSx
+Deutschland_all_free_parking(Ä 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Rodau"
+Altrip"
+Momart"
+Traisa"	
+Gaiberg"	
+Rimbach"
+
+Auerbach"
+
+Birkenau"
+	Eisenbach"
+	Ilvesheim"
+	Lauerbach"
+	Steinbach"
+
+Bad K√∂nig"
+
+Oftersheim"
+
+Pfungstadt"
+
+Zotzenbach"
+Michelstadt"
+Kleingem√ºnd"
+Neckargerach"
+Schwetzingen"
+Neckargem√ºnd"
+Ober-Ramstadt"
+Neckarsteinach"
+Eschollbr√ºcken"
+Mannheim-Rheinau"
+Bensheim-Auerbach"
+Erbach (Odenwald)"
+F√ºrth (Odenwald)"
+Station Kornmarkt"
+Obernburg-Elsenfeld"
+Patrick-Henry-Village"
+Zwingenberg (Bergstr)"
+Weinheim (Bergstra√üe)"
+Heidelberg Hauptbahnhof"
+Weinheim-L√ºtzelsachsen"
+Mannheim-Friedrichsfeld S√ºd"
+Heidelberg-Kirchheim/Rohrbach"
+Hirschberg an der Bergstra√üe" 
+Heidelberg-Weststadt/S√ºdstadt"$
+"Heidelberg-Pfaffengrund/Wieblingen"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
+[{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"f
+d{"amenity":"parking","fee":"no","lit":"yes","park_ride":"yes","supervised":"no","surface":"asphalt"}"j
+h{"access":"yes","amenity":"parking","capacity":"3","fee":"no","park_ride":"yes","parking":"street_side"}"j
+h{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"gravel"}"k
+i{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"m
+k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","supervised":"no"}"n
+l{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"limited"}"p
+n{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"q
+o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"s
+q{"access":"yes","amenity":"parking","capacity":"10","fee":"no","lit":"yes","park_ride":"yes","parking":"surface"}"z
+x{"access":"yes","amenity":"parking","capacity":"54","fee":"no","park_ride":"yes","parking":"surface","wheelchair":"yes"}"{
+y{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"~
+|{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt","wheelchair":"yes"}"Ñ
+Å{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"ã
+à{"access":"yes","amenity":"parking","capacity":"33","capacity:disabled":"0","fee":"no","lit":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","ref:IFOPT":"de:08225:9129:82","ref:IFOPT:description":"P+R S√ºd","surface":"asphalt","wheelchair":"yes"}"å
+â{"access":"yes","amenity":"parking","capacity":"24","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved"}"ç
+ä{"access":"yes","amenity":"parking","capacity":"1","capacity:disabled":"1","capacity:women":"0","fee":"no","object:city":"Heidelberg","object:postcode":"69115","object:street":"Kirchstra√üe","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"ç
+ä{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","fee":"no","park_ride":"yes","parking":"surface","source:geometry":"HiRes aerial imagery","supervised":"no","surface":"asphalt","wheelchair":"yes"}"ê
+ç{"access":"yes","amenity":"parking","bus":"no","capacity":"150","capacity:disabled":"2","fee":"no","hgv":"no","lit":"no","motorcar":"designated","opening_hours":"24/7","park_ride":"yes","parking":"surface","source:geometry":"HiRes aerial imagery","surface":"compacted"}"ô
+ñ{"access":"yes","amenity":"parking","capacity":"5","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"ô
+ñ{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","smoothness":"good","surface":"paving_stones","wheelchair":"yes"}"ö
+ó{"access":"yes","amenity":"parking","capacity":"20","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","surface":"paving_stones"}"°
+û{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","orientation":"perpendicular","park_ride":"yes","parking":"street_side"}"®
+•{"access":"private","amenity":"parking","capacity":"4","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"™
+ß{"access":"yes","amenity":"parking","capacity":"34","description":"Park&Ride Bahnhof Mannheim-Friedrichsfeld S√ºd","fee":"no","name":"Park&Ride Bahnhof MA-Friedrichsfeld S√ºd","park_ride":"yes","parking":"surface","ref:IFOPT":"de:08222:2334:80","ref:IFOPT:description":"P+R","surface":"asphalt"}"´
+®{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"paving_stones"}"∑
+¥{"access":"yes","amenity":"parking","capacity":"35","capacity:disabled":"0","capacity:parent":"0","capacity:women":"0","fee":"no","object:city":"Heidelberg","object:postcode":"69115","object:street":"R√∂merstra√üe","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","wheelchair":"yes"}"π
+∂{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","capacity:women":"0","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"π
+∂{"access":"yes","amenity":"parking","capacity":"46","capacity:disabled":"0","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"compacted"}"Ω
+∫{"access":"yes","amenity":"parking","capacity":"13","capacity:disabled":"0","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¬
+ø{"access":"yes","amenity":"parking","fee":"no","max_time":"12 h","maxstay":"12 hours","park_ride":"yes","parking":"surface","parking:condition":"disc","parking:condition:vehicles":"motorcar"}"≈
+¬{"access":"yes","amenity":"parking","capacity":"2","fee":"no","lit":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"…
+∆{"access":"yes","amenity":"parking","capacity":"15","capacity:disabled":"1","charge":"7 EUR/day","fee":"no","fee:conditional":"no @ (Mo-Fr 00:00-08:00,19:00-24:00; Sa 00:00-08:00,16:30-24:00; Su,PH)","operator":"Stadt Weinheim","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"›
+⁄{"access":"yes","amenity":"parking","capacity":"2","capacity:disabled":"2","fee":"no","lit":"no","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"street_side","surface":"paving_stones"}"Ï
+È{"access":"customers","amenity":"parking","capacity":"2","capacity:disabled":"2","capacity:women":"0","fee":"no","maxstay":"no","maxstay:conditional":"90 minutes @ (Mo-Th 06:00-18:00; Fr 06:00-17:00)","object:city":"Heidelberg","object:postcode":"69115","object:street":"Kaiserstra√üe","park_ride":"yes","parking":"surface","supervised":"no","wheelchair":"yes"}"˘
+ˆ{"access":"yes","amenity":"parking","capacity":"11","capacity:disabled":"0","charge":"7 EUR/day","fee":"no","fee:conditional":"no @ (Mo-Fr 00:00-08:00,19:00-24:00; Sa 00:00-08:00,16:30-24:00; Su,PH)","opening_hours":"24/7","operator":"Stadt Weinheim","orientation":"perpendicular","park_ride":"yes","parking":"street_side","parking_space":"normal","surface":"paving_stones"}"	ü%1º:@"	í⁄Wn8@"	CÑ/á&≥@"	Ær-HÉ@"	˚Áò≈K@"		˛…`æpv@"	Îö%Y@"	aªE∂@"	ØßÈV”|@"	Ë>z#ô@"	:h»üm|@"	{◊Ωm©¶@"	eÿ8xPw@"	äÉ∫\@"	?≈>2@"	!ôlÀu…Z@"	*ôòˇJØ@"	+Í%æ 2l@"	-ùò9á@"	.J}|WG@@"	3
+-Ÿ¢@"	6{Ìø	`@"	@!ë$Ó∑•@"	Gñ¸˙‚≤@"	G¡∏ïŒwS@"	Ih¸‘ï@"	O>´ö€J7@"	QSidó$ì@"	R|11Ø@"	YñàVÓ	¶@"	g=ô∑óy@"	j§7‚”òH@"	kQ:Ô{@"	sh!xäé_@"	tê?êåï@"	v‘{_∆åê@"	ÄöÓ≥ñLà@"	ÇıÆNÏw[@"	É:
+;Â-Ø@"	ç{.ƒÃkB@"	é¿»yı◊®@"	é5zt.¢@"	è2 ÏÌ)@"	èÖOÖ|€v@"	è•Ô∑NhH@"	î9ë¡’B@"	ó¶.4”r3@"	òúëOx@"	ö(ˆPÉ@"	öƒxdÄjQ@"	û
+P+¥É@"	†ñ∞(“X@"	†›Å…'…É@"	†ﬂ®Å W@"	≠Mı®	@"	Æ)Mf„Q@"	ÆÇßV’©@"	Ø‚-≥SÚß@"	µŸqòìl[@"	∫’íór@"	æÿ›.L0¥@"	øeë+R!@"	øÜ¸ü÷%¶@"	øŒ·Œ√ã≤@"	√˚»•±€b@"	≈N{wFì@"	Õddu©@B@"	Œ/w€¶@"	—éñRıß@"	‘™˙Æ∑xx@"	‘È¥ñ4N@"	ŸVm˜†Ô0@"	Ÿq˝|}@"	Ÿú‡ÀIEØ@"	€øjJ·Ù_@"	ﬂ@.ˆpoØ@"	„$π⁄öá∑@"	Ëß©`Ò0@"	Ïò% 0¸/@"	Ì¥©#nó|@"	Ì˙äÕÕŸ?@"	ÒÇ´)Ñ\®@"	ÙÊ≥äÚR@"	˜4w'?}h@"	¸r˚/K@@"	¸ä1|9@" Ä®ëà" ÇÇ" Éπ–Ω" Ñ¢" àâˇ" ã∂‰j" å≥≈" è@" ê;" ê†" ê†" ëÙ¥‰" í–" ñÅ" ú†”" úﬁª§" úÎ¯" ûïÇ€" û ªË" °Ó„O" ¢êìç" ¢»€û" £ì”" •¨∑d" ¶Úú¢" ßØù" ©ì›Ú" ™&" ™÷∫r" Æ†" Æ…úë" ØK" Ø“í€" ±˜∫r" ≤úèã" ¥ﬂ—B" ∏û" ∏ÿ·Q" ªõ" ºÌ∞" Ω" Ω¥" æÌ∞" æˇ" ¿≠úR" ¿÷à" ¿Ô¿§" ¬®Ÿï" √ëºr" √®Ÿï" ƒ®Ÿï" ƒ™˙" ≈◊Åﬂ" »“∂“"  ªŒO"  ¿ö¥" ÃÖœô" Ã˜∑" Õ©ö¥" Õø”•" Œ“∂“" –±◊" “¸ê1" Ÿ" ›…í—" ·öäﬂ" ·”ÕÚ" „”ÕÚ" „‘Æ‰" ‰©∫r" ‰‡‹ù" ‰¸" Â”ÕÚ" ÁK" Á”ÕÚ" ÁÊû£" Î¸Œé" =" ¯óºr" ˘ˆ∑‰" ˙ù≥Ë" ˙ˆ∑‰" ˚ˆ∑‰" ˝Ñ" ˝ﬁúÒ ≈1Ñˆ±ã"	òA% ⁄0\…¥ê"	¨» ›3b…¥û"	Œ∏ ÿ(á¿„ v"	“¯ ﬂ(^¿„ a"	‘ä ÷GN‚‹u"	n  ˜*¢Í¡É"	Ñö ‡>õØ◊o"	û⁄  ∆<ù¬”í"	é⁄ ≤-ü´ËX"	¸ê: ∫Aì#Àß	]"	†¢8 •L[ ÏÒë"	ÏÙ' ÛIz ÏÒÜ"	Ï¯' —,ó"«µ%j"	∫º+ ®2Ç"«µ%c"	∏ƒ+ œ(îŒ∏q"	‚í  ÙJ°'≠£i"	∆Í; ÚHM'≠£s"	»Ï; –F`'≠£ñ"	ÃÍ; ıE~'≠£ò"	“Ë; √9m!≠£O"	˛ƒ< ‰KY!≠£å"	ñÜ= ∂CU&≠£d"	¿¶=  »:à&≠£â"	êƒ= ÁDxøô"	“÷; Ÿ@RøT"	 ò<  ≥=è∞ªé"	Ï≤> π5y¶ÔV"	§3˛ º/n¨∑_"	∫3∂ ’(t¨∑"	¶3» “+S¨∑}"	®3‘  ‘.Ä¨∑Å"	™3‘ Õ/wÃÈ
+h"	¢2¿  (çÃÈ
+p"	Æ2ÿ €)e§Ó|"	÷$ﬁ< Ì6Q§Ók"	ÿ$‚< Â4{§Óú"	‡$Ê<  Ê4ö§Óï"	‚$Ë< Î8g§Óä"	‰$Í< ΩBr§ÓP"	Ó$¸< ﬁ7Zæ·W"	˛9˙= ©;†™ƒf"	Óä@ Æ?l$≠£Ö"	–Æ@

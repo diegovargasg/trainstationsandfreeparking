@@ -1,0 +1,123 @@
+^x
+Deutschland_all_free_parking(€ 
+id_parkingtagsdistance_to_stationnearest_station_nameindex_right
+id_villagevillage_namedistance"
+Bork"
+Leer"
+Ameke"
+Reken"
+Aschen"
+Gimbte"
+Greven"
+HÃ¶ven"
+Natrup"
+Oesede"
+Polsum"
+Roland"
+Sythen"
+Telgte"
+Welver"	
+Buldern"	
+Dolberg"	
+DÃ¼lmen"	
+Hesseln"	
+Mentrup"	
+Metelen"
+
+Clarholz"
+
+Isendorf"
+
+Leschede"
+	Albachten"
+	Amshausen"
+	EmsbÃ¼ren"
+	Emsdetten"
+	Gartnisch"
+	Hasbergen"
+	Marl-Hamm"
+	Nordwalde"
+	Westhoyel"
+
+KÃ¼nsebeck"
+
+MÃ¼ssingen"
+
+Wellendorf"
+
+Westbevern"
+HausdÃ¼lmen"
+Marl-Sinsen"
+BruchmÃ¼hlen"
+Hamm-Heessen"
+Natrup-Hagen"
+Selm-Beifang"
+Bahnhof Reken"
+Halle (Westf)"
+Hilter a.T.W."
+SickingmÃ¼hle"
+Borgholzhausen"
+Kloster Oesede"
+Metelen (Land)"
+Westbarthausen"
+Beckum-Neubeckum"
+Coesfeld (Westf)"
+Hamm-Bockum-HÃ¶vel"
+MÃ¼nster-Albachten"
+Steinhagen (Westf)"
+Gelsenkirchen-Hassel"
+Coesfeld Schulzentrum"
+OsnabrÃ¼ck-Sutthausen"
+Dissen-Bad Rothenfelde"
+Steinfurt-Burgsteinfurt"
+Warendorf-Einen-MÃ¼ssingen"'
+%Steinhagen(Westf) Bielefelder StraÃŸe"H
+F{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"W
+U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"Z
+X{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"a
+_{"access":"yes","amenity":"parking","fee":"no","name":"P+R","park_ride":"yes","parking":"lane"}"g
+e{"access":"yes","amenity":"parking","capacity":"48","fee":"no","park_ride":"yes","parking":"surface"}"g
+e{"access":"yes","amenity":"parking","capacity":"50","fee":"no","park_ride":"yes","parking":"surface"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","source":"survey"}"i
+g{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"k
+i{"access":"yes","amenity":"parking","capacity":"99","fee":"no","park_ride":"yes","parking":"street_side"}"v
+t{"access":"yes","amenity":"parking","fee":"no","name":"P+R - Bahnhof Hesseln","park_ride":"yes","parking":"surface"}"w
+u{"amenity":"parking","capacity":"20","covered":"yes","fee":"no","operator":"DB Station&Service AG","park_ride":"yes"}"y
+w{"access":"yes","amenity":"parking","capacity":"18","fee":"no","park_ride":"yes","parking":"surface","supervised":"no"}"y
+w{"access":"yes","amenity":"parking","fee":"no","name":"P+R - Bahnhof Wellendorf","park_ride":"yes","parking":"surface"}"}
+{{"access":"yes","amenity":"parking","fee":"no","name":"P+R - Bahnhof Kloster Oesede","park_ride":"yes","parking":"surface"}"~
+|{"access":"yes","amenity":"parking","capacity":"96","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface"}"
+}{"access":"yes","amenity":"parking","capacity":"37","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface"}"€
+~{"access":"yes","amenity":"parking","capacity":"100","fee":"no","name":"P&R,Sythen Ost","park_ride":"yes","parking":"surface"}"
+{"access":"yes","amenity":"parking","capacity:disabled":"3","fee":"no","park_ride":"yes","parking":"surface","source":"survey"}"
+{"access":"yes","amenity":"parking","fee":"no","name":"Park & Ride - Bahnhof Sutthausen","park_ride":"yes","parking":"surface"}"„
+{"access":"yes","amenity":"parking","fee":"no","name":"P&R Bahnhof Dissen-Bad Rothenfelde","park_ride":"yes","parking":"surface"}"‰
+†{"access":"yes","amenity":"parking","fee":"no","lit":"no","name":"P+R - Bahnhof Borgholzhausen","park_ride":"yes","parking":"surface"}"Š
+‡{"access":"yes","amenity":"parking","capacity":"27","fee":"no","name":"P&R,Gelsenkirchen-Hassel","park_ride":"yes","parking":"surface"}"Š
+‡{"access":"yes","amenity":"parking","fee":"no","name":"P&R Bahnhof KÃ¼nsebeck","park_ride":"yes","parking":"surface","supervised":"no"}"
+Œ{"amenity":"parking","capacity":"31","capacity:disabled":"2","fee":"no","name":"P&R,Marl-Sinsen, Ost","park_ride":"yes","parking":"surface"}"“
+{"access":"yes","amenity":"parking","capacity":"4","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"“
+{"access":"yes","amenity":"parking","capacity":"6","capacity:disabled":"1","fee":"no","park_ride":"yes","parking":"surface","surface":"asphalt"}"”
+‘{"access":"yes","amenity":"parking","capacity":"45","fee":"no","name":"P&R,Sythen West","park_ride":"yes","parking":"surface","wheelchair":"yes"}"˜
+•{"access":"yes","amenity":"parking","capacity":"50","fee":"no","name":"Parkplatz am Bahnhof","park_ride":"yes","parking":"surface","supervised":"no"}"œ
+™{"access":"yes","amenity":"parking","capacity:disabled":"2","fee":"no","park_ride":"yes","parking":"surface","source":"survey","surface":"paving_stones"}"œ
+™{"access":"yes","addr:city":"Emsdetten","addr:housenumber":"14","addr:postcode":"48282","addr:street":"Alte EmsstraÃŸe","amenity":"parking","building":"parking","building:levels":"4","capacity":"374","capacity:charging":"4","capacity:disabled":"5","fee":"no","name":"Parkpalette P+R Ost","opening_hours":"24/7","operator":"Stadt Emsdetten","park_ride":"yes","parking":"multi-storey","start_date":"2020-04-30"}"ž
+›{"access":"yes","amenity":"parking","capacity":"15","capacity:disabled":"2","fee":"no","name":"P+R Bahnhof Clarholz","park_ride":"yes","parking":"surface"}"¡
+ž{"access":"yes","amenity":"parking","capacity":"180","fee":"no","lit":"yes","name":"P&R SÃ¼d","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¢
+Ÿ{"access":"yes","amenity":"parking","capacity:disabled":"no","fee":"no","park_ride":"yes","parking":"street_side","surface":"paving_stones","wheelchair":"yes"}"©
+¦{"access":"yes","amenity":"parking","capacity":"26","fee":"no","length":"4,5","park_ride":"yes","parking":"surface","supervised":"no","surface":"paved","width":"2.5"}"©
+¦{"access":"yes","amenity":"parking","capacity":"42","fee":"no","name":"Park & Ride - Bahnhof Halle (Westf.)","park_ride":"yes","parking":"surface","wheelchair":"yes"}"ª
+§{"access":"customers","amenity":"parking","capacity":"5","fee":"no","name":"P+R Parkplatz Marl-Hamm Bf","object:city":"Marl","object:housenumber":"2","object:postcode":"45772","object:street":"SpechtstraÃŸe","operator":"Deutsche Bahn AG","park_ride":"yes","parking":"surface","surface":"ground"}"«
+¨{"access":"yes","amenity":"parking","capacity":"80","fee":"no","lit":"yes","name":"P&R Ost","park_ride":"yes","parking":"surface","surface":"grass_paver;paving_stones"}"«
+¨{"access":"yes","amenity":"parking","capacity:disabled":"4","fee":"no","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"no"}"¬
+©{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Park & Ride - Bahnhof Westbarthausen","park_ride":"yes","parking":"surface","surface":"paving_stones"}"±
+®{"amenity":"parking","capacity":"60","capacity:disabled":"3","capacity:women":"4","fee":"no","name":"P+R, DÃ¼lmen, DÃ¼lmen Bahnhof","park_ride":"yes","parking":"street_side"}"¶
+³{"access":"yes","amenity":"parking","capacity":"127","capacity:disabled":"2","fee":"no","lit":"yes","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paved"}"¼
+¹{"access":"yes","amenity":"parking","fee":"no","lit":"yes","name":"Park & Ride - Bahnhof Steinhagen Bielefelder StraÃŸe","park_ride":"yes","parking":"surface","surface":"paving_stones"}"¾
+»{"access":"yes","amenity":"parking","capacity":"34","fee":"no","name":"P&R Selm Beifang","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paved","wheelchair":"yes"}"Á
+¾{"access":"permissive","amenity":"parking","capacity":"100","fee":"no","maxstay":"2 hours","name":"Wilhelmsplatz","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"Ó
+Ð{"access":"yes","amenity":"parking","capacity":"10","capacity:disabled":"1","capacity:parent":"no","capacity:women":"no","fee":"no","name":"Park & Ride - Bahnhof Hilter","park_ride":"yes","parking":"surface"}"Ö
+Ó{"access":"yes","amenity":"parking","capacity:disabled":"1","fee":"no","maxstay":"no","name":"Park & Ride - Bahnhof Steinhagen","park_ride":"yes","parking":"surface","surface":"paving_stones","wheelchair":"yes"}"å
+â{"access":"yes","addr:city":"GeorgsmarienhÃ¼tte","addr:housenumber":"62","addr:postcode":"49124","addr:street":"Oeseder StraÃŸe","amenity":"parking","fee":"no","name":"P+R Bahnhof Oesede","park_ride":"yes","parking":"surface"}"	ø0å|@"	^423$)@"	îŠ“rH@"	t#Ü>\@"	B1v>]@"	÷Ž¸öa@"	„A‡ë@"	ÊnìI@"	Èµ_½Ÿ@"	v@¸R\$@"	"¦‰}€@"	$@VØ?>@"	%Æ÷¾¨7­@"	&C’»!oœ@"	)úŠ˜âÏˆ@"	+¶c¨¯q²@"	,t‰¨ž«@"	1mTæ†·@"	4!P©”¤X@"	6[‡s@"	6Žt6dò­@"	7ëD¯Ì–@"	9¢pØž@"	;HjW¡›@"	=ÉFÄN@"	APÐ~®L@"	A±Ð«~ì²@"	C;6>ý8C@"	D—xeÍ/b@"	E	#£"ª@"	GLŽP~ûV@"	HGPºvc}@"	N2öõ,£@@"	NXù8>@"	QC'Í%¤@"	S,§‘¡-M@"	S˜ñ]Á_B@"	TÁ ?Ø³8@"	Z‚òŒÐÉR@"	Z¬JM¡@"	[K	ßuH@"	\GCM@"	]#ŽbR™Š@"	_M0„%h­@"	_–©mSŽ@"	g¯,±@"	gØþS|´@"	lr9À€S9@"	tå+ £ˆh@"	uXÀ\•(—@"	v|°î‰@"	|àWÈìur@"	…¦xïæH@"	‡Î	Ê$TD@"	ˆÃÎªUK@"	‹:N6È¥@"	•lAKs¬@"	—R!(ôN@"	™ÅsÅ^od@"	Ÿ£¾U?öS@"	£„í>·'@"	¤c+âyf@"	¦µó‘ÂN@"	¦¸Œ´;±@"	©”WìH¼G@"	«7—×Jõ¬@"	«Wq oyS@"	¬ÅE|%<@"	­8kìšYO@"	­Âl“ì\@"	­Ý;¨”@"	®kçbžÍT@"	°ª1<@"	µë°KþS@"	¶ÑÁö4jT@"	¼A¢Cð¢@"	¼ÏcÊT;µ@"	½Åd3eh@"	½ý¶ýnðw@"	¿ÂìÜ²@"	ÂÍW`aØP@"	ÉCiûù%X@"	Í€š€kåF@"	ÑèÙ{^@"	Ñù©Tžh’@"	Õ§fK³”«@"	Û»D3­b@"	ÜldïŒ;@"	Þ¢Âö×˜N@"	Þ©]ÍÕ#H@"	â˜)	¿{@@"	äÑÍLó °@"	æ^“b) ±@"	ê“•(öQa@"	ëÄ4ÐÙð«@"	ëÆÀ'ý9±@"	ëÛú:cÿT@"	ð'FÅ ’@"	ñ>ß²ñL±@"	ù™ËñÎƒ@"	ùÈu1Ãî¡@"	úÛãPkž³@" €Ã¢¼" €Ù¾" Ÿ" ƒø¿¦	" „€Ñ" „š" „ÞÇ7" †w" †áô¡" ˆùŸ" ‹" ‹Õ‹í " •Àr" Õƒ" ì’" ‘“" “ÎÁÄ" ” Á" ”£" •4" •½ž" •ø°¸" ˜è©ƒ)" ™†—ß" š†—ß" ›Ðì" œÓ¯" žœ„}" ž¨¸" ¡£í©" ¥­¯*" ¥Ä" ¦‹©Š!" §–9" §©åe" ¨ž¹\" ©ŠÀr" ¬m" ¬¼åø$" ­ÙÛ" ®¢¯" ¯" ¯š™" ¯ÓÜî$" ³Œüô" ´¾îx" µÕÑù	" ¶" ·—Ÿ¡" ¸”" ¹‹¥a" º·" »ð~" »²ýô" »ë¾²" ¾ˆ¿²" ¾ÖãÚ" ¾ß" ¾ý‡" ÃÆ–" Ç‹" Ê|" Ë›ñŒ" Ì" Íü" Î—§Œ" Î› " Ï„" ÏòíŠ" Ñl" ÒÅ‹" Óú°M" Ô£" ×Šó‘" ØŸ" Ù¡" ÜÂ¬'" Ý" ß" ßÆ›" ßÍ¥s" àìž" â¥úÏ" â¿œ¥" âÆý{" ãŽ" ã—“²" ãÿÍ" å¡" å®½ô" åÊæ" æß•¬" ç" çŸ¼À" èÙ´Ì%" éŒúõ" éùÌ" ê¢ˆ„" ì‰" íýÕî" îÉ§Â" ï«ž" ï°á‚" ð×" ò~" ô‘©«" ö¢" öÍñÎ" ø„øh" ø¢" ù…þƒ" úíâ " ûÂ±<" ÿª¯" ÿü›§  ª@ÅÙ§˜"	¾¬ ¥?µ1°û~"	˜
+î  –P°<ÛÍ"	Æö  «@®<Û›"	Èø  ´@¬<ÛÐ"	Îø  üE²<ÛÊ"	Ð€  j<Û}"	òô  ½\œêƒ"	âà  [Šƒ”Ÿ"	Ðœ  šZ”“í­"	è˜ ¯`r9æ²¯"	”Æ'  ÆG†4æ²ˆ"	‚²(  „N‰¢ð«"	ºú- áC¾Þè+x"	nº2  ³b‡óÔ.„"	Ìœ; òVu&óÔ.Ó"	¾¨< ’D¨©Â%z"	ðº0  ˆf±©Â%™"	úÄ0  º^ž©Â%Ì"	òØ0 îYp±¼"	ðÖ4 ¦OÀ±n"	òà4  ØcÁ©Â%‚"	ŠÖ0 ìWÎ6ã×|"	È˜*  ëX©6ã× "	È˜*  Äi¸*ýâ ‹"	¤´:  ŠA“)—å)´"	‚(¨ ‹Ay)—å)š"	ˆ(¦  ÷A¿)—å)ª"	ˆ(°  ÅQ‘:ùàÉ"	„-Ø  ­mÇ	¾ÿº"	†/¸  €L€0žé#¥"	1ü  ‰K¢#žé#¡"	À2¼  Õk¶-¿…"	„3ð  öRÆ;Áú"	¼4Ì Úeo2Áú{"	Ø6Ú  ›S³/Ö•Ã"	¦8Î  ·H—Ö•Ä"	¨:ê Àaq,¬ôÂ"	¨<Ì  Ý_’¼ï$½"	ˆ"¤% ŒBw=ç†""	¢'Þ&  õg¤5‡Üœ"	â!Î9 M–(¶˜"	¼$¨9  µJË3‘¨¹"	-À2 ®Fs3‘¨Ò"	Ž-Ê2 ¸]£¡£t"	œ5°+  ¤UŒ!¬ôÑ"	Æ=!  äl·7ŸßÏ"	¤?Ò"  þh>Ÿß•"	ö?†# ŽTÈ8…‚
+v"	ÌÆ@  ÃdŽ™ø»"	Ž*”@  ñI§'»¹ ¦"	È@â
