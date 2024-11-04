@@ -1,5 +1,5 @@
 # Log
-metadata.json
+#metadata.json
 *.gpkg-shm
 *.gpkg-wal
 .gpkg

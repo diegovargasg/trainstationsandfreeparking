@@ -1,14 +1,6 @@
-àRx
+»Ix
 Deutschland_all_free_parking(Ä 
-id_parkingtagsdistance_to_stationnearest_station_nameindex_right
-id_villagevillage_namedistance"
-Polsum"
-Schuir"
-	Garenfeld"
-	Suderwich"
-
-Westerholt"
-B√∂kenbusch"
+id_parkingtagsdistance_to_stationnearest_station_name"
 Essen-Eiberg"
 Essen-Steele"
 Wattenscheid"
@@ -34,8 +26,7 @@ Westerholt"
 Wattenscheid-H√∂ntrop"
 Dortmund-B√∂vinghausen"
 Bochum-Langendreer West"
-Gelsenkirchen Buer-Nord"
-Siedlung Mathias-Stinnes"W
+Gelsenkirchen Buer-Nord"W
 U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"m
 k{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"street_side","surface":"paved"}"n
 l{"amenity":"parking","fee":"no","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt"}"o
@@ -73,10 +64,8 @@ o{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"sur
 ⁄{"access":"yes","amenity":"parking","capacity":"110","capacity:disabled":"3","fee":"no","lit":"yes","name":"P&R, Essen-Steele Ost","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"Â
 ‚{"access":"yes","amenity":"parking","capacity":"124","capacity:disabled":"4","covered":"no","fee":"no","name":"Park and Ride Area","park_ride":"yes","parking":"surface","supervised":"no","surface":"asphalt","wheelchair":"yes"}"¯
 ı{"access":"yes","amenity":"parking","capacity:disabled":"no","capacity:parent":"no","capacity:women":"no","fee":"no","lit":"no","name":"Bahnhof Essen-Eiberg","opening_hours":"24/7","park_ride":"yes","parking":"surface","surface":"paving_stones"}"˙
-˜{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","lit":"yes","name":"P+R Bahnhof Hattingen","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"	o3∂Ê4v@"	|‡òlã?@"	`e>î`]@"	∞L`¨<@"	æ∏a≥÷æ@"	cG(¸<c@"	éY{È€E@"	∑–‚EK@"	-:ø@"	m¥˙8B@"	n–y∏vP@"	ü/.ÈAª@"	»µ_Ωü@"	µ∆
-§æ@"	_Ã\é3≈@"	˘Bî*≈@"	&à(ôJ@"	#dËÜÕ@"	%*üäV@"	%ƒ  ÈoN@"	'JMk?N@"	+‘9 ≈.V@"	/*u€àß√@"	3êmX¬ªh@"	4≈
-ëkª@"	:á=˘g9b@"	?ÍVŒ@"	@ ø∫≤E∆@"	FRT˜å0Q@"	IåNõºEÃ@"	P∑I±¬@"	Y6ê†ã≠≥@"	[ìÖÑ®@"	^sëÃn3ƒ@"	bô•·ƒ@"	e]Ñ‰}Ù¡@"	pÍI‰€º@"	u∆Í1§¡@"	vD£=x7æ@"	¥0∞#E @"	Ç1HXV@"	ÑéÏx+Úg@"	Öµ
-‘-ï√@"	åe`I√@"	êıï¸≤^@"	ìƒ˛jê≈G@"	óÑJ9sF@"	ó◊0IHcL@"	öLUÂd’K@"	ö€ã˚øhN@"	üg§∏∑©O@"	£myüÕ@"	§ﬁı∏oAº@"	ßºZı˚ùP@"	©U+R3£^@"	≠OÔµUX»@"	≥hoIÚ	Œ@"	√ˇ9fÏ6Õ@"	«˘rS©@R@"	»ﬂÌÖ<Ω@"	’»\4±@"	’Ô'$S„u@"	·≤&ÀÂº@"	‚ò)	ø{@@"	Ê/Ë¶•\]@"	Êèë’<ª@"	Í\ø7ß%@"	ÒO@y˙ë¬@"	ÛÍÙ∫ãΩ@"	ˆ8w√^@"	˜Ñé£KçC@"	¯”j[ rX@"	˚•∏ˇ%≈@"	¸ôº|ºyV@"	˝éG¯+Ω@"	ˇÂÖÔ~{:@" á»êÑ" àÇÍ" â∂À" â¯" â˙ˇ˙" çÔΩJ" è∆ù;" èˇ˙-" í∞õ#" îÔΩJ" ïÁÑ$" ñÔΩJ" ô–ã" ö˛Ë#" °€â°" ¢î≤" £ﬂ—y" ®∏ˆ“" ¨Ê÷ƒ" ¨ıå4" ØΩ¯" µ’—˘	" ∑∞—0" ∏êÂY" ∏î" ∏¯⁄" πäÁ" ∫êôu" ∫ú±£" ºâ" ºì˚Ù" º¯»L" ΩÉô" Ωü—0" æ˝á" √•çá" √ø†" ≈x" «£ò" »¯è" ÀÉô" –¥ç" ‘Âå•" ÿ§÷ﬂ" ÿ–¡‰" Êp" ÍÖ" Úñs" ˙Ü" ˚÷á." ˚˝íΩ" ¸÷á. µ)Ü´® S"	Æî ï7|ñ±g"	ƒÍ øAÅñ±{"	¥‹ ó5t¿ÆR"	Ë¶  ™"ç¿Æà"	Ï¶ ≈.W¿Æ_"	‚≤ •:Iñ±j"	¥Ü ≤*y∞∂ É"	Ä∏$ ù1o∞∂ O"	Ó÷+ õ6á∏£m"	‚:  ∫(ê∞∂ ä"	¶ö1 Ω!w∏£q"	»
-Ú2 üC`∏£]"	‚
-Ç3 ¢0x√§r"	˙ﬁ3 ìEQ√§h"	§¥3 æ#Ñ√§K"	∏™: ∑;s∞∂ i"	î¨* ∆=Y∞∂ è"	÷î* ƒ@[∞∂ U"	‹û* º?í∞∂ ~"	öû. ≠/\√§l"	ˆÏ7 ú9H√§k"	†æ? òFM√§Ç"	∂∂? û$N√§ë"	∏¿? Ø+u√§Ö"	Æƒ? ôDp
-¿ÆT"	“"÷ ö-å¿Æf"	¨1Ñ ¶%L¿Æe"	‚>¶  ¬4â¿Æã"	2 π2G¿Æb"	Ó6ñ ¨<J¿ÆV"	Œ?≤ î3v∞∂ "	Ã ‹* °&c¿ÆÄ"	 1Ê( ©,}¿ÆX"	Ä2ê) ¥>^¿Æz"	ò2ú) †Bé¿Æa"	æ5Ü) ≥'P	¡ßd"	‰<‡% ª8Z¡ßn"	¨@¸%
+˜{"access":"yes","amenity":"parking","capacity":"50","capacity:disabled":"2","fee":"no","lit":"yes","name":"P+R Bahnhof Hattingen","opening_hours":"24/7","orientation":"perpendicular","park_ride":"yes","parking":"surface","surface":"paving_stones"}"	o3∂Ê4v@"	|‡òlã?@"	`e>î`]@"	∞L`¨<@"	cG(¸<c@"	éY{È€E@"	∑–‚EK@"	m¥˙8B@"	n–y∏vP@"	&à(ôJ@"	%*üäV@"	%ƒ  ÈoN@"	'JMk?N@"	+‘9 ≈.V@"	3êmX¬ªh@"	:á=˘g9b@"	FRT˜å0Q@"	Ç1HXV@"	ÑéÏx+Úg@"	êıï¸≤^@"	ìƒ˛jê≈G@"	óÑJ9sF@"	ó◊0IHcL@"	öLUÂd’K@"	ö€ã˚øhN@"	üg§∏∑©O@"	ßºZı˚ùP@"	©U+R3£^@"	«˘rS©@R@"	’Ô'$S„u@"	‚ò)	ø{@@"	Ê/Ë¶•\]@"	Í\ø7ß%@"	ˆ8w√^@"	˜Ñé£KçC@"	¯”j[ rX@"	¸ôº|ºyV@"	ˇÂÖÔ~{:@" á»êÑ" àÇÍ" â∂À" â˙ˇ˙" çÔΩJ" è∆ù;" èˇ˙-" í∞õ#" îÔΩJ" ïÁÑ$" ñÔΩJ" ô–ã" ö˛Ë#" °€â°" ¢î≤" ¨Ê÷ƒ" ¨ıå4" ∑∞—0" ∏êÂY" ∏¯⁄" πäÁ" ∫ú±£" º¯»L" ΩÉô" Ωü—0" æ˝á" √ø†" «£ò" »¯è" ÀÉô" –¥ç" ‘Âå•" ÿ§÷ﬂ" ÿ–¡‰" Úñs" ˚÷á." ˚˝íΩ" ¸÷á. "^"	Æî h0Z"	ƒÍ	 á:\"	¥‹ i.T"	Ë¶ xb"	Ï¶	 ä'I"	‚≤ u3B"	¥Ü |#Y"	Ä∏$ o*Q"	Ó÷+ m/_	"	‚:	 Ç!d"	¶ö1	 ÖW
+"	»
+Ú2 q<O
+"	‚
+Ç3 t)X "	˙ﬁ3 f>H "	§¥3	 Ü]	"	∏™:	 Ä4S"	î¨*	 ã6J"	÷î*	 â9L"	‹û*	 Ñ8e"	öû. z(M"	ˆÏ7 n2A"	†æ? j?E"	∂∂? pF"	∏¿? {$U"	Æƒ? k=R"	“"÷ l&a"	¨1Ñ vD"	‚>¶	 à-`"	2	 Å+@"	Ó6ñ y5C"	Œ?≤ g,V"	Ã ‹* sP"	 1Ê( w%["	Ä2ê) ~7N"	ò2ú) r;c"	æ5Ü) } G"	‰<‡%	 É1K"	¨@¸%

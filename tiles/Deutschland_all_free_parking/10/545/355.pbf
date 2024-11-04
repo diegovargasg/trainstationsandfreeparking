@@ -1,15 +1,11 @@
-áSx
+ËHx
 Deutschland_all_free_parking(€ 
-id_parkingtagsdistance_to_stationnearest_station_nameindex_right
-id_villagevillage_namedistance"
+id_parkingtagsdistance_to_stationnearest_station_name"
 Grub"
 Haar"
 Riem"
 Poing"	
-Baldham"	
-Dornach"	
-Eglfing"	
-PÃ¶ring"
+Baldham"
 
 Daglfing"
 
@@ -17,32 +13,21 @@ id_villagevillage_namedistance"
 	Gronsdorf"
 	Neubiberg"
 	Ottobrunn"
-	Westerham"
 	Zorneding"
 
 DÃ¼rrnhaar"
 
 Hohenbrunn"
 
-Kirchseeon"
-
-Ottenhofen"
-
-Riemerling"
+Kirchseeon"
 Feldkirchen"
 Heimstetten"
 Michaelibad"
-Neukeferloh"
-Taufkirchen"
-Unterbiberg"
+Taufkirchen"
 Unterhaching"
 Vaterstetten"
-Angelbrechting"
-FischerhÃ¤user"
 Markt Schwaben"
-Grafing Bahnhof"
-Grafing-Bahnhof"
-Luitpoldsiedlung"
+Grafing Bahnhof"
 HÃ¶henkirchen-Siegertsbrunn"W
 U{"access":"yes","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"]
 [{"access":"customers","amenity":"parking","fee":"no","park_ride":"yes","parking":"surface"}"f
@@ -82,14 +67,11 @@ z{"access":"yes","amenity":"parking","fee":"no","name":"P&R Haar","park_ride":"y
 à{"access":"yes","addr:city":"Poing","addr:housenumber":"7","addr:postcode":"85586","addr:street":"FriedensstraÃŸe","amenity":"parking","building":"parking","building:levels":"3","capacity":"407","capacity:disabled":"yes","capacity:parent":"yes","capacity:women":"yes","fee":"no","lit":"yes","park_ride":"yes","parking":"multi-storey","surface":"paved"}"ä
 á{"amenity":"parking","capacity":"10","capacity:disabled":"10","description":"Behindertenparkplatz","fee":"no","lit":"yes","maxstay":"unlimited","park_ride":"yes","parking":"street_side","surface":"asphalt","wheelchair":"yes"}"ö
 ó{"access":"yes","amenity":"parking","capacity:disabled":"2","capacity:parent":"no","capacity:women":"no","fee":"no","level":"0","lit":"yes","park_ride":"yes","parking":"surface","surface":"asphalt","toilets:wheelchair":"no","wheelchair":"yes"}"û
-ø{"access":"permit","amenity":"parking","capacity":"3","check_date":"2024-05-02","covered":"no","description":"Parkplatz fÃ¼r Elektrofahrzeuge","fee":"no","park_ride":"yes","parking":"surface","supervised":"yes","surface":"paved","wheelchair":"yes"}"	Ç3(z\5@"	…/Á]¡@"	/mphq@"	üûG19@"	u'Ògˆ@"	)6Ü+C@"	9Sq¬ð@"	VÔòUÔ†@"	èj3þ’@"	!*ðŸ@"	™øo–Q@"	!µw#ýR@"	#Xµ¢k@"	%´^¨+§@"	&På.Ÿ@"	(+:“’Oh@"	*µáØR@"	+.ö¨!Æ5@"	0ŒuwÚU@"	2-hZ:I@"	6úëv[÷q@"	8R¾=v@"	>Éè¨“{a@"	?¨\2ôU@"	?á­*Ÿgd@"	GB¯k}‰r@"	HøÒ€@"	JÏšÕ>ñ6@"	KWNc	ÞF@"	KÁ@:Nè\@"	Kþ§Ø§ï¦@"	NºHù{fb@"	TºœD;	°@"	Uß:öÿò¢@"	V/Ä£.A@"	X`
-¡øG@"	YL·Ÿ•áP@"	Z]Ùƒ¤Q@"	]ù^Èñ“@"	a¢W¨·K—@"	bháü@År@"	fú9Ÿà¶Q@"	hYO*²a@"	høß3T7E@"	j¥žwÏP@"	w©Óo`>@"	{Ç´¤ÄNX@"	€¯ëÛkÙa@"	­YŠ{€@"	…‡¶MyÇo@"	‡‚ak•u@"	,.ˆ@"	~›ûdNE@"	‘À£˜¥Q@"	˜Lš§@"	˜Ê _kæb@"	™¯ˆà—˜@"	›øON6<V@"	òl0¨@"	pnÌ§‹@"	 ÖL]Þ¢@"	£
-oZ1[@"	£3?qÛ¾¡@"	¦°ø²À0r@"	ªÕFùõ1–@"	«âÂQ=Y@"	®ÈKv@"	®=Ç²Fô@@"	±Ž¡P­¢@"	³zŒS
-@"	µ÷øÍ(¼A@"	¸GD#Y×P@"	¸‰?ÊÐ¥@"	»àÿúúêX@"	¼ÀlA÷É}@"	Áªrw8¨@"	ÓÃUw3ñG@"	ÔíÖua@"	Õ0ÁBn@"	àò9ñY@"	êýÉ–Ód@"	î®×ÚwJ@"	îß“Hçþ@"	ï“‹qÞu@"	öÉüP@"	ø‡5â0¨@" %" C" €ŒØ" €Ñ¸" " —†²" Ðøa" èü" ‚ŒØ" ‚ì“" „¯½¡" „ºÞ¢" ˆ©³" ‰Îô" Šˆ" –¹" ‘¥ˆ" •¿€
-" •ÓÚî" –´´‘" –þ" —Ñî" ˜õç" šþÚ" £Ï»'" £ö" ©¼Œ%" ®4" ¯×èG" ¶" ·X" ·" ¸" º" ¼É²t" ¾É²t" ¿½¶t" À½¶t" Ã—ž" Å¨•" Ç‹ô…" Ç±ôI" Ç¸À" Çäº™" É… " Ìû‚ó" Í“½" Î»ôë" Ï˜šs" ÏÕïS" ÐÕïS" Õã" ÖÑ„" ÖÑÆb" ×Ñ„" ×úó" Øä½r" Ù³" Ü”¨" á÷¥¾" äã¾" å#" ë" ì" ìÊó\" ðŸ›m" ñ¥‰K" óÉ" ô©ÁË" ôÉ" õ‹Ø" õ©ÁË" ÷“Õ" ÷ÙÔ" ø‹Ø" ùÖ" û¯¥-" ûµ«P" þ™½" þáø" ÿ¹Þ¢ Â*Y	Ýìh"	žc Ã*b	ÝìW"	žY °GM	Ýì•"	ž+ â#—»¦j"	¢â  ÚCšÞ¸Ÿ"	Öô á$VÞ¸p"	®â Û#_Þ¸R"	Üè £#v éœ"	øô º5˜ éK"	ž” Ì/s
-¿«
-N"	ðú Õ(i½ðP"	šô ï.ƒ½ðQ"	èö  à&‘ éŒ"	îô ¬6f é"	Ü’ ×1mÓÇ‚"	îÈ+ Ö)eÓÇ|"	²”/  Ô?ÓÇ‰"	¾š/  ¶>‹»¦†"	Ä
-´( Ñ@»¦k"	Â
-Ä( Ò8J¹²Ž"	Ô
-Ö( í=g¹²ˆ"	î
-ì( É7–¹²d"	öö+ Ù3`¡±…"	úŽ! ª,aÀÎr"	Î²0 ³-TÀÎc"	Ð¶0 Ä'žÀÎL"	ìÔ0 Å'ZÀÎ^"	ìÚ0 ¢Dl"´Ë!"	°Ž8 êE["´Ë!}"	º’8 æBw"´Ë!„"	¾’8 ­%™"´Ë!X"	¾¸8 ¨:t"´Ë!S"	´Ä8 Í0Áîy"	Ê€? §FUåçq"	„&¶ Ê<nåçŠ"	ˆ&Ì Ü+u¾Ø’"	ª/¶  è;¾Ø€"	Š/Ü ©4x ãä {"	ò ˜ Æ2oßµ~"	â!ˆ"  ¼H“®Ï”"	è)à$ ·A]®Ïz"	ô)ö$ ¥9\¤¯‡"	ö3à) ÐI›ëÈ O"	Ô=¨1
+ø{"access":"permit","amenity":"parking","capacity":"3","check_date":"2024-05-02","covered":"no","description":"Parkplatz fÃ¼r Elektrofahrzeuge","fee":"no","park_ride":"yes","parking":"surface","supervised":"yes","surface":"paved","wheelchair":"yes"}"	Ç3(z\5@"	üûG19@"	™øo–Q@"	!µw#ýR@"	#Xµ¢k@"	(+:“’Oh@"	*µáØR@"	+.ö¨!Æ5@"	0ŒuwÚU@"	2-hZ:I@"	8R¾=v@"	>Éè¨“{a@"	?¨\2ôU@"	?á­*Ÿgd@"	JÏšÕ>ñ6@"	KWNc	ÞF@"	KÁ@:Nè\@"	NºHù{fb@"	V/Ä£.A@"	X`
+¡øG@"	YL·Ÿ•áP@"	Z]Ùƒ¤Q@"	fú9Ÿà¶Q@"	hYO*²a@"	høß3T7E@"	j¥žwÏP@"	w©Óo`>@"	{Ç´¤ÄNX@"	‘À£˜¥Q@"	˜Ê _kæb@"	›øON6<V@"	«âÂQ=Y@"	®=Ç²Fô@@"	µ÷øÍ(¼A@"	¸GD#Y×P@"	»àÿúúêX@"	ÓÃUw3ñG@"	ÔíÖua@"	Õ0ÁBn@"	àò9ñY@"	êýÉ–Ód@"	î®×ÚwJ@"	öÉüP@" €ŒØ" €Ñ¸" —†²" èü" ‚ŒØ" ‚ì“" „¯½¡" ˆ©³" ‰Îô" ‘¥ˆ" –´´‘" ˜õç" šþÚ" ©¼Œ%" ¯×èG" ¼É²t" ¾É²t" ¿½¶t" À½¶t" Ã—ž" Ç±ôI" Ç¸À" É… " Ìû‚ó" Ï˜šs" ÏÕïS" ÐÕïS" ÖÑ„" ÖÑÆb" ×Ñ„" ×úó" Ù³" Ü”¨" á÷¥¾" äã¾" ìÊó\" ðŸ›m" ñ¥‰K" õ‹Ø" ÷“Õ" ø‹Ø" ûµ«P" þáø xC"	žc yK"	žY r;?"	ž+	 Žc"	¢â	 ‰7f"	Öô	 B"	®â	 ŠH"	Üè jW"	øô v)d"	ž” #T"	ðú	 …O"	šô	 “"\"	èö	 Œ`"	îô p*M"	Ü’	 ‡%Q"	îÈ+	 †L"	²”/	 „3^"	¾š/ t2]"	Ä
+´(	 ‚4Z"	Â
+Ä(	 ƒ,>"	Ô
+Ö(	 ’1N"	î
+ì( }+b	"	öö+	 ˆ'I"	úŽ! o J"	Î²0 s!@"	Ð¶0 zh"	ìÔ0 {D"	ìÚ0 i8P"	°Ž8	 ‘9E"	º’8	 6X"	¾’8 qe"	¾¸8 m.U"	´Ä8	 €$_"	Ê€? l:A"	„&¶ ~0R"	ˆ&Ì	 ‹V"	ª/¶	 /["	Š/Ü n(Y "	ò ˜ |&S"	â!ˆ" w<a
+"	è)à$ u5G
+"	ô)ö$ k-F"	ö3à)	 =g"	Ô=¨1
