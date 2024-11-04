@@ -1,6 +1,5 @@
 # Log
 metadata.json
-*.pbf
 *.gpkg-shm
 *.gpkg-wal
 .gpkg
